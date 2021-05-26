@@ -112,33 +112,6 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 group-title="BEIN ENTERTAINMENT", BEIN:AMC
 http://top.samotv.xyz:2095/dtv_753512/Ox9ijJrY/34182
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS NEWS
-http://ottin.me:8000/salam_000946/ImHfNpi5/106513
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEIN SPORTS NBA HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106514
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 1 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106515
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 2 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106516
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 3 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106517
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 4 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106518
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 5 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106519
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 6 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106520
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 7 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106521
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 8 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106522
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 10 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106524
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 11 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106525
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 12 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106526
-
 #EXTINF:-1,BEIN 1 PR
 #EXTVLCOPT:http-user-agent=iomzquueeow0raeias
 http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/459
@@ -170,50 +143,72 @@ http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/457
 #EXTVLCOPT:http-user-agent=iomzquueeow0raeias
 http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/458
 
-#EXTINF:-1 ,Bein Sport HD1 720
-http://185.71.64.6:80/0814032676/9060614706/163889
-#EXTINF:-1 ,Bein Sport HD2 720
-http://185.71.64.6:80/0814032676/9060614706/163888
-#EXTINF:-1 ,Bein Sport HD3 720
-http://185.71.64.6:80/0814032676/9060614706/163887
-#EXTINF:-1 ,Bein Sport HD4 720
-http://185.71.64.6:80/0814032676/9060614706/163886
-#EXTINF:-1 ,Bein Sport HD5 720
-http://185.71.64.6:80/0814032676/9060614706/163885
-#EXTINF:-1 ,Bein Sport HD6 720
-http://185.71.64.6:80/0814032676/9060614706/163884
-#EXTINF:-1 ,Bein Sport HD7 720
-http://185.71.64.6:80/0814032676/9060614706/163883
-#EXTINF:-1 ,beIN SPORTS Premium 4K 1
-http://185.71.64.6:80/0814032676/9060614706/163948
-#EXTINF:-1 ,beIN SPORTS Premium 4K 2
-http://185.71.64.6:80/0814032676/9060614706/163947
-#EXTINF:-1 ,beIN SPORTS Premium 4K 3
-http://185.71.64.6:80/0814032676/9060614706/163946
-#EXTINF:-1 ,beIN SPORTS 4K 1
-http://185.71.64.6:80/0814032676/9060614706/163945
-#EXTINF:-1 ,beIN SPORTS 4K 2
-http://185.71.64.6:80/0814032676/9060614706/163944
-#EXTINF:-1 ,beIN SPORTS 4K 3
-http://185.71.64.6:80/0814032676/9060614706/163943
-#EXTINF:-1 ,beIN SPORTS 4K 4
-http://185.71.64.6:80/0814032676/9060614706/163942
-#EXTINF:-1 ,beIN SPORTS 4K 5
-http://185.71.64.6:80/0814032676/9060614706/163941
-#EXTINF:-1 ,beIN SPORTS 4K 7
-http://185.71.64.6:80/0814032676/9060614706/163939
-#EXTINF:-1 ,beIN SPORTS Extra 4K 1
-http://185.71.64.6:80/0814032676/9060614706/163938
-#EXTINF:-1 ,beIN Sport English 4k 2
-http://185.71.64.6:80/0814032676/9060614706/163937
-#EXTINF:-1 ,beIN Sport English 4k 3
-http://185.71.64.6:80/0814032676/9060614706/163936
-#EXTINF:-1 ,beIN Sport French 4k 1
-http://185.71.64.6:80/0814032676/9060614706/163935
-#EXTINF:-1 ,beIN Sport French 4k 2
-http://185.71.64.6:80/0814032676/9060614706/163934
-#EXTINF:-1 ,beIN Sport English 4k 1
-http://185.71.64.6:80/0814032676/9060614706/163933
+#EXTINF:-1,beIN HD1 PR
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/46
+#EXTINF:-1,beIN HD2 PR
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/47
+#EXTINF:-1,beIN HD3 PR
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/48
+#EXTINF:-1,beIN HD1
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/49
+#EXTINF:-1,beIN HD2
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/50
+#EXTINF:-1,beIN HD3
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/51
+#EXTINF:-1,beIN HD4
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/52
+#EXTINF:-1,beIN HD5
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/53
+#EXTINF:-1,beIN HD6
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/54
+#EXTINF:-1,beIN HD7
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/55
+#EXTINF:-1,beIN HD11
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/3001
+#EXTINF:-1,beIN HD12
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/3002
+#EXTINF:-1,beIN LOW1 PR
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/62
+#EXTINF:-1,beIN LOW2 PR
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/63
+#EXTINF:-1,beIN LOW3 PR
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/64
+#EXTINF:-1,beIN LOW1
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/65
+#EXTINF:-1,beIN LOW2
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/66
+#EXTINF:-1,bein low3
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2108
+#EXTINF:-1,bein low4
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2109
+#EXTINF:-1,bein low5
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2110
+#EXTINF:-1,bein low6
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2111
+#EXTINF:-1,bein low7
+#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
+http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2112
 
 #EXTINF:-1,BEOUT ACTION
 #EXTVLCOPT:http-user-agent=iomzquueeow0raeias
