@@ -109,128 +109,109 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 
 #------------#
+#EXTINF:-1,BEINSports-fr1
+http://iptv.am000.tv:8000/live/add17/add17/16.ts
+#EXTINF:-1,BEINSports-fr2
+http://iptv.am000.tv:8000/live/add17/add17/17.ts
+#EXTINF:-1,BEINSports-fr3
+http://iptv.am000.tv:8000/live/add17/add17/566.ts
+#EXTINF:-1,BeinSport-Sd1
+http://iptv.am000.tv:8000/live/add17/add17/293.ts
+#EXTINF:-1,BeinSport-Sd2
+http://iptv.am000.tv:8000/live/add17/add17/294.ts
+#EXTINF:-1,BeinSport-Sd3
+http://iptv.am000.tv:8000/live/add17/add17/295.ts
+#EXTINF:-1,BeinSport-Sd4
+http://iptv.am000.tv:8000/live/add17/add17/296.ts
+#EXTINF:-1,BeinSport-Sd5
+http://iptv.am000.tv:8000/live/add17/add17/297.ts
+#EXTINF:-1,BeinSport-Sd6
+http://iptv.am000.tv:8000/live/add17/add17/298.ts
+#EXTINF:-1,BeinSport-Sd7
+http://iptv.am000.tv:8000/live/add17/add17/299.ts
+#EXTINF:-1,BeinSport-Sd8
+http://iptv.am000.tv:8000/live/add17/add17/300.ts
+#EXTINF:-1,BeinSport-Sd9
+http://iptv.am000.tv:8000/live/add17/add17/301.ts
+#EXTINF:-1,BeinSport-Sd10
+http://iptv.am000.tv:8000/live/add17/add17/302.ts
+#EXTINF:-1,EN:BeinSport-11
+http://iptv.am000.tv:8000/live/add17/add17/575.ts
+#EXTINF:-1,EN:BeinSport-12
+http://iptv.am000.tv:8000/live/add17/add17/577.ts
+#EXTINF:-1,FR:BEINSPORT-13
+http://iptv.am000.tv:8000/live/add17/add17/632.ts
+#EXTINF:-1,FR:BEINSPORT-14
+http://iptv.am000.tv:8000/live/add17/add17/633.ts
+#EXTINF:-1,FR:BEINSPORT-15
+http://iptv.am000.tv:8000/live/add17/add17/634.ts
+#EXTINF:-1,FR:BEINSPORT-16
+http://iptv.am000.tv:8000/live/add17/add17/635.ts
+#EXTINF:-1,Sky-Atlantic
+http://iptv.am000.tv:8000/live/add17/add17/441.ts
+#EXTINF:-1,SkySport-1
+http://iptv.am000.tv:8000/live/add17/add17/443.ts
+#EXTINF:-1,KANAL7-HD
+http://iptv.am000.tv:8000/live/add17/add17/422.ts
+#EXTINF:-1,KIDS-MOVIE1
+http://iptv.am000.tv:8000/live/add17/add17/627.ts
+#EXTINF:-1,KIDS-MOVIE2
+http://iptv.am000.tv:8000/live/add17/add17/639.ts
+#EXTINF:-1,KIDS-MOVIE3
+http://iptv.am000.tv:8000/live/add17/add17/640.ts
+#EXTINF:-1,KIDS-MOVIE4
+http://iptv.am000.tv:8000/live/add17/add17/641.ts
 
-#EXTINF:-1 group-title="BEIN ENTERTAINMENT", BEIN:AMC
-http://top.samotv.xyz:2095/dtv_753512/Ox9ijJrY/34182
-#EXTINF:-1,BEIN 1 PR
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/459
-#EXTINF:-1,BEIN 2 PR
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/450
-#EXTINF:-1,BEIN 3 PR
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/451
-#EXTINF:-1,BEIN 1 
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/452
-#EXTINF:-1,BEIN 2 
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/453
-#EXTINF:-1,BEIN 3 
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/454
-#EXTINF:-1,BEIN 4 
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/455
-#EXTINF:-1,BEIN 5 
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/456
-#EXTINF:-1,BEIN 6 
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/457
-#EXTINF:-1,BEIN 7 
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/458
-
-#EXTINF:-1,beIN HD1 PR
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/46
-#EXTINF:-1,beIN HD2 PR
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/47
-#EXTINF:-1,beIN HD3 PR
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/48
-#EXTINF:-1,beIN HD1
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/49
-#EXTINF:-1,beIN HD2
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/50
-#EXTINF:-1,beIN HD3
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/51
-#EXTINF:-1,beIN HD4
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/52
-#EXTINF:-1,beIN HD5
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/53
-#EXTINF:-1,beIN HD6
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/54
-#EXTINF:-1,beIN HD7
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/55
-#EXTINF:-1,beIN HD11
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/3001
-#EXTINF:-1,beIN HD12
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/3002
-#EXTINF:-1,beIN LOW1 PR
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/62
-#EXTINF:-1,beIN LOW2 PR
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/63
-#EXTINF:-1,beIN LOW3 PR
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/64
-#EXTINF:-1,beIN LOW1
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/65
-#EXTINF:-1,beIN LOW2
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/66
-#EXTINF:-1,bein low3
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2108
-#EXTINF:-1,bein low4
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2109
-#EXTINF:-1,bein low5
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2110
-#EXTINF:-1,bein low6
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2111
-#EXTINF:-1,bein low7
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2112
-
-#EXTINF:-1,BEOUT ACTION
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2994
-#EXTINF:-1,BEOUT Arabia
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2995
-#EXTINF:-1,BEOUT Cinema
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2996
-#EXTINF:-1,BEOUT Masr7 Masr
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2997
-#EXTINF:-1,BEOUT Scare tv
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2998
-#EXTINF:-1,BEOUT ShowTime1
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/2999
-#EXTINF:-1,BEOUT showTime2
-#EXTVLCOPT:http-user-agent=iomzquueeow0raeias
-http://kaicertv.ddns.net:8080/S1IcB7tHZg/wLzsgXPDgo/3000
+#EXTINF:-1,osn-yahala-hd
+http://iptv.am000.tv:8000/live/add17/add17/383.ts
+#EXTINF:-1,OSN-MBC+DRAMA
+http://iptv.am000.tv:8000/live/add17/add17/21.ts
+#EXTINF:-1,OSN-Yahala-Shabab
+http://iptv.am000.tv:8000/live/add17/add17/24.ts
+#EXTINF:-1,OSN-AlYoum
+http://iptv.am000.tv:8000/live/add17/add17/384.ts
+#EXTINF:-1,OSN-CINEMA1
+http://iptv.am000.tv:8000/live/add17/add17/153.ts
+#EXTINF:-1,OSN_Cinma_2
+http://iptv.am000.tv:8000/live/add17/add17/403.ts
+#EXTINF:-1,OSN-MOVIES-ACTION
+http://iptv.am000.tv:8000/live/add17/add17/26.ts
+#EXTINF:-1,OSN-MOVIES-ACTION+2
+http://iptv.am000.tv:8000/live/add17/add17/18.ts
+#EXTINF:-1,OSN-MOVIES-HD
+http://iptv.am000.tv:8000/live/add17/add17/25.ts
+#EXTINF:-1,OSN-MOVIES-DRAMA
+http://iptv.am000.tv:8000/live/add17/add17/19.ts
+#EXTINF:-1,OSN-MOVIES-premier
+http://iptv.am000.tv:8000/live/add17/add17/323.ts
+#EXTINF:-1,OSN-MOVIES-premier2
+http://iptv.am000.tv:8000/live/add17/add17/412.ts
+#EXTINF:-1,OSN-Movie-FESTIVAL
+http://iptv.am000.tv:8000/live/add17/add17/27.ts
+#EXTINF:-1,OSN-MOVIES-Comedy
+http://iptv.am000.tv:8000/live/add17/add17/292.ts
+#EXTINF:-1,OSN-StarMovie
+http://iptv.am000.tv:8000/live/add17/add17/454.ts
+#EXTINF:-1,OSN_Starworld
+http://iptv.am000.tv:8000/live/add17/add17/151.ts
+#EXTINF:-1,OSN-BoxOffice
+http://iptv.am000.tv:8000/live/add17/add17/399.ts
+#EXTINF:-1,OSN-BoxOffice1
+http://iptv.am000.tv:8000/live/add17/add17/109.ts
+#EXTINF:-1,OSN-FIGHT-HD
+http://iptv.am000.tv:8000/live/add17/add17/625.ts
+#EXTINF:-1,Bein-Movies1
+http://iptv.am000.tv:8000/live/add17/add17/387.ts
+#EXTINF:-1,Bein-Movies2
+http://iptv.am000.tv:8000/live/add17/add17/343.ts
+#EXTINF:-1,Bein-Movies3
+http://iptv.am000.tv:8000/live/add17/add17/534.ts
+#EXTINF:-1,OSN-Disney
+http://iptv.am000.tv:8000/live/add17/add17/404.ts
+#EXTINF:-1,OSN-movie-kids
+http://iptv.am000.tv:8000/live/add17/add17/624.ts
+#EXTINF:-1,OSN-NATGEOWILD
+http://iptv.am000.tv:8000/live/add17/add17/626.ts
 #-----------#
 
 
