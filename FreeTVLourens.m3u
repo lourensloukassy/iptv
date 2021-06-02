@@ -107,6 +107,20 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="music", RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
+#EXTINF:0 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="Indonesia",ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Balitv_2002.png" group-title="Indonesia",Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="Indonesia",CTV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" group-title="Indonesia", Da Ai Indonesia
+http://210.210.155.35/qwr9ew/s/s13/index2.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="Indonesia",K Drama
+http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 
 #------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O0JJEna.png" group-title="sports", BEIN SPORTS 1 ARABIC
@@ -119,16 +133,16 @@ http://ferrarico.referrari.com/live/60092_.m3u8
 http://ferrarico.referrari.com/live/60093_.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png" group-title="sports", BEIN SPORTS MAX 4 
-http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/8.html
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="sports", BEIN SPORTS MAX 5 
-http://stream.tvtap.live:8081/live/fr-beinmax5.stream/playlist.m3u8
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/11.html
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_6.png" group-title="sports", BEIN SPORTS MAX 6 
-http://stream.tvtap.live:8081/live/fr-beinmax6.stream/playlist.m3u8
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/12.html
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/BE_IN_SPORT_MAX_7_2017.png" group-title="sports", BEIN SPORTS MAX 7 
-http://stream.tvtap.live:8081/live/fr-beinmax7.stream/playlist.m3u8
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/13.html
 
 #-----------#
 
