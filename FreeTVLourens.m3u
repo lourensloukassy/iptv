@@ -132,6 +132,9 @@ http://ferrarico.referrari.com/live/60092_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BeIN_Sports_3_HD.png/800px-BeIN_Sports_3_HD.png" group-title="sports", BEIN SPORTS 3 ARABIC
 http://ferrarico.referrari.com/live/60093_.m3u8
 
+#EXTINF:-1 tvg-logo="https://epg.beinsports.com/us_sports/BS4.svg" group-title="sports", BEIN SPORTS 4 ARABIC
+http://ferrarico.referrari.com/live/60094_.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/219-2193037_nbc-sports-nbcsn-boston-hd-png-download.png" group-title="sports", NBCSN HD 
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
 
