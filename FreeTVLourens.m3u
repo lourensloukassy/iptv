@@ -123,6 +123,10 @@ http://210.210.155.35/qwr9ew/s/s13/index2.m3u8
 http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 
 #------------#
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/tldhjvq55hjd/2sRJgcUghTOwcvVt8UEIsZ/cbe662f8ed25fc98b33ecdd94585f75b/atg.png" group-title="sports", ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O0JJEna.png" group-title="sports", BEIN SPORTS 1 ARABIC
 http://ferrarico.referrari.com/live/60091_.m3u8
 
@@ -132,8 +136,26 @@ http://ferrarico.referrari.com/live/60092_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BeIN_Sports_3_HD.png/800px-BeIN_Sports_3_HD.png" group-title="sports", BEIN SPORTS 3 ARABIC
 http://ferrarico.referrari.com/live/60093_.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/us_sports/BS4.svg" group-title="sports", BEIN SPORTS 4 ARABIC
-http://ferrarico.referrari.com/live/60094_.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg" group-title="sports", BEIN SPORTS 4 MAX
+http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="sports", BEIN SPORTS 5 MAX
+http://stream.tvtap.live:8081/live/fr-beinmax5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg" group-title="sports", BEIN SPORTS 6 MAX
+http://stream.tvtap.live:8081/live/fr-beinmax6.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg" group-title="sports", BEIN SPORTS 7 MAX
+http://stream.tvtap.live:8081/live/fr-beinmax7.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="sports", DAZN 1
+http://45.94.149.154:8000/play/a03o
+
+#EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="sports", DAZN 2
+http://45.94.149.154:8000/play/a03t
+
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/04/banner-696x465.jpg" group-title="sports", DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/219-2193037_nbc-sports-nbcsn-boston-hd-png-download.png" group-title="sports", NBCSN HD 
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
