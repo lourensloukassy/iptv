@@ -361,7 +361,160 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
 #---------Channel XXX-------------#
-
+#EXTINF:-1 ,beIN 4K
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/27692
+#EXTINF:-1 ,beIN Sports 4K
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/60708
+#EXTINF:-1 ,beIN Sports 1 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/1
+#EXTINF:-1 ,beIN Sports 1 HD+
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/107
+#EXTINF:-1 ,beIN Sports 1 Hevc
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3854
+#EXTINF:-1 ,beIN Sports 1 SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2541
+#EXTINF:-1 ,beIN Sports 2 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2
+#EXTINF:-1 ,beIN Sports 2 HD+
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108
+#EXTINF:-1 ,beIN Sports 2 Hevc
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3853
+#EXTINF:-1 ,beIN Sports 2 SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2540
+#EXTINF:-1 ,beIN Sports 3 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3
+#EXTINF:-1 ,beIN Sports 3 HD+
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/109
+#EXTINF:-1 ,beIN Sports 3 Hevc
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3852
+#EXTINF:-1 ,beIN Sports 3 SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2539
+#EXTINF:-1 ,beIN Sports 4 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/4
+#EXTINF:-1 ,beIN Sports 4 HD+
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/110
+#EXTINF:-1 ,beIN Sports 4 Hevc
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3851
+#EXTINF:-1 ,beIN Sports 4 SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2538
+#EXTINF:-1 ,beIN Sports 5 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/5
+#EXTINF:-1 ,beIN Sports 5 HD+
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/112
+#EXTINF:-1 ,beIN Sports 5 Hevc
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3850
+#EXTINF:-1 ,beIN Sports 5 SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/10795
+#EXTINF:-1 ,beIN Sports 6 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/6
+#EXTINF:-1 ,beIN Sports 6 HD+
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/113
+#EXTINF:-1 ,beIN Sports 6 Hevc
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3849
+#EXTINF:-1 ,beIN Sports 6 SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2536
+#EXTINF:-1 ,beIN Sports 7 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/7
+#EXTINF:-1 ,beIN Sports 7 HD+
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/114
+#EXTINF:-1 ,beIN Sports 7 Hevc
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3848
+#EXTINF:-1 ,beIN Sports 7 SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2535
+#EXTINF:-1 ,beIN Sports 8 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/8
+#EXTINF:-1 ,beIN Sports 8 HD+
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/115
+#EXTINF:-1 ,beIN Sports 8 Hevc
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3847
+#EXTINF:-1 ,beIN Sports 8 SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2534
+#EXTINF:-1 ,beIN Sports 9 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9
+#EXTINF:-1 ,beIN Sports 9 HD+
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/116
+#EXTINF:-1 ,beIN Sports 9 Hevc
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/10361
+#EXTINF:-1 ,beIN Sports 9 SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2533
+#EXTINF:-1 ,beIN Sports 10 HD OLYMPIC
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/10
+#EXTINF:-1 ,beIN Sports 10 HD+ OLYMPIC
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/117
+#EXTINF:-1 ,beIN Sports 10 Hevc OLYMPIC
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/10362
+#EXTINF:-1 ,beIN Sports 10 SD OLYMPIC
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2532
+#EXTINF:-1 ,beIN Sports 11 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/11
+#EXTINF:-1 ,beIN Sports 11 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/2531
+#EXTINF:-1 ,beIN Sports 11 Hevc EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/22195
+#EXTINF:-1 ,beIN-SPORTS 11 SD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/49727
+#EXTINF:-1 ,beIN Sports 12 FHD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/12
+#EXTINF:-1 ,beIN Sports 12 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/10369
+#EXTINF:-1 ,beIN Sports 12 Hevc EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/22196
+#EXTINF:-1 ,beIN-SPORTS 12 SD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/49728
+#EXTINF:-1 ,beIN Sports 13 FHD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/13
+#EXTINF:-1 ,beIN Sports 13 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/11015
+#EXTINF:-1 ,beIN Sports 13 Hevc EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/22197
+#EXTINF:-1 ,beIN-SPORTS 13 SD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/49729
+#EXTINF:-1 ,beIN Sports 14 FHD FR
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/14
+#EXTINF:-1 ,beIN Sports 14 HD FR
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/11016
+#EXTINF:-1 ,beIN Sports 15 FHD FR
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/15
+#EXTINF:-1 ,beIN Sports 15 HD FR
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/11017
+#EXTINF:-1 ,beIN Sports 16 FHD FR
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/16
+#EXTINF:-1 ,beIN Sports 16 HD FR
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/11018
+#EXTINF:-1 ,beIN-SPORTS 17 HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/106198
+#EXTINF:-1 ,beIN Sports Nba HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/3845
+#EXTINF:-1 ,beIN Sports NBA SD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/57044
+#EXTINF:-1 ,beIN-SPORTS MAX HD 1
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/106199
+#EXTINF:-1 ,beIN-SPORTS MAX HD 2
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/106200
+#EXTINF:-1 ,beIN-SPORTS MAX HD 3
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/106201
+#EXTINF:-1 ,bein sports Xtra EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/113022
+#EXTINF:-1 ,beIN Sports 1 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108161
+#EXTINF:-1 ,beIN Sports 2 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108162
+#EXTINF:-1 ,beIN Sports 3 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108163
+#EXTINF:-1 ,beIN Sports 4 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108164
+#EXTINF:-1 ,beIN Sports 5 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108165
+#EXTINF:-1 ,beIN Sports 6 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108166
+#EXTINF:-1 ,beIN Sports 7 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108167
+#EXTINF:-1 ,beIN Sports 8 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108168
+#EXTINF:-1 ,beIN Sports 9 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108169
+#EXTINF:-1 ,beIN Sports 10 HD EN
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108170
 #---------Channel XXX-------------#
 
 
