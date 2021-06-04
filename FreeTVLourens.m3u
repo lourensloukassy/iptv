@@ -65,7 +65,7 @@ http://rr2.dens.tv/s/s104/01.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCs7LSC5/2053221245.png" group-title="sport", MOLA TV FREE
-http://streaming.sastromihardjo.com/molatv.php?id=690
+https://etslive-2-vidio-com.akamaized.net/exp=1622814649~acl=/hls-p/ingest_6840_*/*~hmac=edaa841eefaab544841b9f7be7d7dd08f8d34ea2ba588784b2ca71caf41c51e4/hls-p/ingest_6840_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DznwDyMD/LOGO-JOGJA-TV-NEW-pii-new1.png" group-title="local", JOGJA TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
