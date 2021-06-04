@@ -21,8 +21,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1622825823~acl=/hls-p/ingest_6711_
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/A-5zhoi1I0aGUHlDM9cBkWcMtKw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="nasional", NUSANTARA TV
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1622827030~acl=/hls-p/ingest_7432_*/*~hmac=c29d2fc353c7c358a77d1ebd8f373a80d6dd816cc1b6ba9d158862453d77951d/hls-p/ingest_7432_720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://etslive-2-vidio-com.akamaized.net/exp=1622827030~acl=/hls-p/ingest_7432_*/*~hmac=c29d2fc353c7c358a77d1ebd8f373a80d6dd816cc1b6ba9d158862453d77951d/hls-p/ingest_7432_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EuyIh5xxwKHZ5tnVhjyFdOZKjII=/640x360/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="nasional", MAGNA TV
