@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXT-X-VERSION:3
 
 
 #<!--- FreeTV & Monitoring Created By Lourens.Loukassy--!>
@@ -10,6 +10,24 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="nasional", ELSHINTA TV
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="nasional", JAK TV
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://etslive-2-vidio-com.akamaized.net/exp=1622825290~acl=/hls-p/ingest_5415_*/*~hmac=a9cd40b11301b5e65dea82a1aadd7740f13f0ba7a3f0eeec96621f7a899c4614/hls-p/ingest_5415_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/daE51_pdNeOtHEigcS28lweSIP4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" group-title="nasional", MY TV
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://etslive-2-vidio-com.akamaized.net/exp=1622825823~acl=/hls-p/ingest_6711_*/*~hmac=20a0a67d9c95721278dfde916fc473eab51dc3179f12f5c0abda9254d8a10dd1/hls-p/ingest_6711_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/A-5zhoi1I0aGUHlDM9cBkWcMtKw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="nasional", NUSANTARA TV
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://etslive-2-vidio-com.akamaized.net/exp=1622827030~acl=/hls-p/ingest_7432_*/*~hmac=c29d2fc353c7c358a77d1ebd8f373a80d6dd816cc1b6ba9d158862453d77951d/hls-p/ingest_7432_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EuyIh5xxwKHZ5tnVhjyFdOZKjII=/640x360/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="nasional", MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="nasional", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
@@ -65,6 +83,7 @@ http://rr2.dens.tv/s/s104/01.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCs7LSC5/2053221245.png" group-title="sport", MOLA TV FREE
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
 https://etslive-2-vidio-com.akamaized.net/exp=1622814649~acl=/hls-p/ingest_6840_*/*~hmac=edaa841eefaab544841b9f7be7d7dd08f8d34ea2ba588784b2ca71caf41c51e4/hls-p/ingest_6840_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DznwDyMD/LOGO-JOGJA-TV-NEW-pii-new1.png" group-title="local", JOGJA TV
