@@ -338,7 +338,7 @@ http://stream.tvtap.live:8081/live/fr-beinmax7.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O0JJEna.png" group-title="sports", BEIN SPORTS 1 ENGLISH
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O0JJEna.png" group-title="sports", BEIN SPORTS 2 ENGLISH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="sports", BEIN SPORTS 2 ENGLISH
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="sports",BEIN SPORTS XTRA
