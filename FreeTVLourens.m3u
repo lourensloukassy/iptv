@@ -11,18 +11,12 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="nasional", ELSHINTA TV
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="nasional", JAK TV
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1622825290~acl=/hls-p/ingest_5415_*/*~hmac=a9cd40b11301b5e65dea82a1aadd7740f13f0ba7a3f0eeec96621f7a899c4614/hls-p/ingest_5415_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/daE51_pdNeOtHEigcS28lweSIP4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" group-title="nasional", MY TV
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1622825823~acl=/hls-p/ingest_6711_*/*~hmac=20a0a67d9c95721278dfde916fc473eab51dc3179f12f5c0abda9254d8a10dd1/hls-p/ingest_6711_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="nasional", JAK TV UJI COBA DULU YAH GUYSS!!!
+https://app-etslive-2.vidio.com/live/5415/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjU0MTUsInBsYXlsaXN0X3VybCI6Imh0dHBzOi8vYXBwLWV0c2xpdmUtMi52aWRpby5jb20vbGl2ZS81NDE1L21hc3Rlci5tM3U4IiwiZXhwaXJlX2luIjoxNDQwMH0sImV4cCI6MTYyMjkxNTMxMSwiaXNzIjoid3d3LnZpZGlvLmNvbSJ9.mHEy0EAWDXKFYportIG2GofgIObNL0MAI2XS-bcPtIqncj1efOGzkEAUjXGXDOQ5ctrj63o4DlOxYH7i_LBeYRsIcCqxW91z9E2Af7s5XCaZcEnc6rU0uU-d6wwtVc_6UvS68VThy3wqjxQ4UJGUlVLjUnbmgiMI_t36BnAMFjq-KyBR7C5kggERe3d0rkDr6uBoVcvM_uRqboBRMU34XX0nHpHbahexAIghTNBUkp9XMqOQc8NXoMBpAG3jvDOWIdpIprzWUH529FrSkofbc11D0wUAtNXSSFNxQwzwQQv5MSi41HJWqlORHPkVT4eUs0pdUlhKcatXH7ARKLWlSA&auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdmpCdGc3OU5tT3lRbGV3KzRJMUJKclpCUmRKY0ExMG9nNGM0TnFEdVltZnJ1c2VoMEJsc3NHL1ZmaUVOUEFIeWtiWDNUWlMvVlM4OEgxbFVRWUI0L3RVZTc2QithaDNFVENFZ1o0c0JtQWpjNGlTeVlaRm5EeHBlbHBuQTM4d3VMU0RWL25SY1FoWnI1Nlp3aExXb0F3TktPSGM5S2pRc0xBNHB5Q2RnMVB1SW40ZTZzNlh0elJWKzI5cU1qeHZ6aDJqSHczT1dCRllEaG1ydUJLLzJBOHdwVkFWdWNjbE9JcTRIQ1RHcGx0Nkdzdk94a1Nkc3I0L1d2NDBtRjl2M0w4VGU3Mys3NVJka3N4SWJLUWo5R2F5a0NCd2NNamp2SzlxZjN6V3V1aDRub2dndkk2ZHBJVlFRK1Z3VmpGeWRUNlRRZ29rVDA3Zkl6d0RURFdtMnArSGtlOUNpZlByMjBkUHpoaGdUMjM4SndHUWxTTkU4Y2RkNkNzbm1kUEUwbVV1cGt0OVBPL0o0YVRsRlF4bWd6R01td3ZvOU14N0xaVzdmVzV6ak9sMnNua0tNYVRicGk2UDRIem1JcmNvMllnOS9EWStWWVlpWmMzb1VKN2ljY3JTMjZzanYzTmtRNUR4THBrRUcwRW02Uk1BZW41RmVJMVBKeTlOZVBhWnJNMzdqblltYTdONTd6dVlJNTNqQ0pVZk5BWXAyZWpMRFB0VWZlNEtTWGtUTVF3ZGVOZGJhSDhWWjg3SzdNRjR6OTRta3djRlpTRUZJR2wxamZPYnovZis5dEpmRE1oNWtFTnQvYjBzellMdGJ0NEpKTkFOVUtoSUI0UUZFZFk5R0ozdzcvZE9QR2hoN0o0enJlUlNqTVdVTUs1VHZONk9PSTJzZFUzVUZzM015dXdxb1h5M3c5NWZxY0EzVVg4d3R1T2RRZzc3RFg4bkRJdDcwWm53Wm5vUT09&trace_id=1622914531516682524
 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/A-5zhoi1I0aGUHlDM9cBkWcMtKw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="nasional", NUSANTARA TV
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1622827030~acl=/hls-p/ingest_7432_*/*~hmac=c29d2fc353c7c358a77d1ebd8f373a80d6dd816cc1b6ba9d158862453d77951d/hls-p/ingest_7432_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCs7LSC5/2053221245.png" group-title="sport", MOLA TV FREE UJI COBA DULU YAH GUYSS!!!
+https://app-etslive-2.vidio.com/live/6840/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjY4NDAsInBsYXlsaXN0X3VybCI6Imh0dHBzOi8vYXBwLWV0c2xpdmUtMi52aWRpby5jb20vbGl2ZS82ODQwL21hc3Rlci5tM3U4IiwiZXhwaXJlX2luIjoxNDQwMH0sImV4cCI6MTYyMjkxNTc1OCwiaXNzIjoid3d3LnZpZGlvLmNvbSJ9.MDGsjpM5JUii9n9Ib25_OaPcbZJohuz-koDdxta3_1UxnHMhmk7DC4wMx3aTkYg1GQe72vw-ZH5kMOpnKvHTRzA_6Egoq8SvvE3vCdVTZv3IBmATH3uDP5-N-O8v0MfwTzGNXXEnqmRdzq0xUgCXKvTy4bHnOhC0d0P1cUrtagdJSkHmgXv_RxiGT90bQPG-iWrzwIFYAqu_c337U8HMM2qSXlOdBzED8FvSMRKT7DWv1LYiQpOtuEWbK65MUUdmqswwlvcgr3PcQYmuOp6pgzWqPAemINwuNPlQ99M39wsbzHNZEVv0HuQHhQB5ec55p8nzTDvCsIYTOj8_WePWiA&auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkl0bWxqRktyTkpVMDNFQ1czRm1FVTE5RGpkcE1MOGdWcTdOYkhkeitpS3kzUEFCcWhCcktLa0JoMGVvK3RCNFI1aFRFdlE5ZzBrWE5CeXpUK0dCTVdmMG5ad0F1WmRBWWdld2QybmJseGI0blJWM25xYS8yZFlYY2haL3BQb0FRUjdlWGlKY0cvUGxUNUIvYTg3WVNqckRFVnltY1BzTHY0c3VWZ1NxUEtpYzI3T2ZFSlNZeFVLZ3gzWTgveEYydEx0dHVjNlpRTTAvc29Dd0FLN0lUbldidEU5M2p4RkFmeXBVVC9ObTl0bWdpT3VidWpodkZMbVd4dCtLVGhDTFc4M2h3WmxwNDAwNXZwVUFYemRwU0FtMzNpTldjcTloaDVwUi80MmgrbFYvOU50c2lWVzZvYnZ6TUJpWEF6bXgwaXFHUy9RVnBBVUNvd0F6UHNWaWR0S0NrSlpvZjVlVDZBeGh6WFN3Y1BidHpnZGZQSVQ3ZzNFSHZZVWN0SHZZV3REVm0rRmJERlpVZmwwZVRkMllUNmtaYUVOOTlsbCtzRWhwaEdDdHo5eW1yTHBjQit2ZnFUOFJnUUI4M3RLbnJ0U2Rxb2w2d2hJL1R0eTRrMkViUUM4K29rc0FCL0Q2VVhKVDB0enRmMkhDS3FQNHR4ZFBwRlhTNVJNRGJqZXhFNTlyUWx0YW5uRzlTSklsVVhXTk1CUWpjZ2pFT0s5YlFGTGFleFQyR0VnN3RCRE9lN2thNzVIcXdod2poS1NIblFZK01VUEpTMlVhWE5PS2prRm5hRXBHMjNIZzVGbTh6bDlONFlFNi9BaGdYWU03dUFVREl3UzZ5TkNvM1BQeHNxOWtuZHBLM3Z4SXl4b1N1QXVtYnpoS1F5bmtZck1HMVRZSjM0NFVjWlM2ekR5eVdabmQyVUwyWXFIZUg3dU5zdmtUQnpqUDF5WDRwUjlDOFpwWXJUdz09&trace_id=1622914979143433936
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EuyIh5xxwKHZ5tnVhjyFdOZKjII=/640x360/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="nasional", MAGNA TV
@@ -81,10 +75,6 @@ http://rr2.dens.tv/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="nasional", TVRI
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCs7LSC5/2053221245.png" group-title="sport", MOLA TV FREE
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1622814649~acl=/hls-p/ingest_6840_*/*~hmac=edaa841eefaab544841b9f7be7d7dd08f8d34ea2ba588784b2ca71caf41c51e4/hls-p/ingest_6840_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DznwDyMD/LOGO-JOGJA-TV-NEW-pii-new1.png" group-title="local", JOGJA TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
@@ -309,7 +299,7 @@ http://45.126.83.51/qwr9ew/s/s47/index2.m3u8
 http://45.126.83.51/qwr9ew/s/s27/index2.m3u8
 
 
-#------------#
+#------------------#
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/tldhjvq55hjd/2sRJgcUghTOwcvVt8UEIsZ/cbe662f8ed25fc98b33ecdd94585f75b/atg.png" group-title="sports", ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
