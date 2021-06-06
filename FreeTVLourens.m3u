@@ -1,11 +1,8 @@
-#EXTM3U
-
-#<!--- FreeTV & Monitoring Created By Lourens.Loukassy--!>
-
-
+#<!--- FreeTV & Monitoring--!>
 #---------Indonesia-------------#
 #-------------------------------#
 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="nasional", ELSHINTA TV
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 
@@ -189,7 +186,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 
 #-------------movie-----------------#
 
-#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/r_hHy-0yyOqMWkG_USKHWkYIjvA=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/9869f1.png" tvg-id="RIYAN.c86c4034ca638aa5b81c00c37985f83c.SHINTA" tvg-name" TVN" group-title="Movies", TVN
@@ -239,7 +236,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 #EXTINF:-1 group-title="Movies",Hi Indo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
 
-#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/8630ed8bde0bdfd0c3dbf.png",USA: Boomerang 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/8630ed8bde0bdfd0c3dbf.png",USA: Boomerang 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
 
 #EXTINF:-1 group-title="Movies",Spacetoon
@@ -254,13 +251,13 @@ http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h
 #EXTINF:-1 group-title="Movies",Aniplus
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/f744ebdcac7e8b8ee62d0.png",Disney Channel
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/f744ebdcac7e8b8ee62d0.png",Disney Channel
 http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
 
-#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/f72c5ea067757078f14e0.png",Disney XD 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/f72c5ea067757078f14e0.png",Disney XD 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
 
-#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",Disney Junior 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",Disney Junior 
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nickjr.png" group-title="Movies", Nick Junior 
@@ -269,10 +266,10 @@ http://gg.gg/NickelodeonJRbyChungXDA
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nickelodeon.png" group-title="Movies", Nickelodeon 
 http://gg.gg/NickelodeonChungXDA
 
-#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/f5e9a3d984763b65102ec.png",Cartoon Network
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/f5e9a3d984763b65102ec.png",Cartoon Network
 http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/33
 
-#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon Junior
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon Junior
 http://bit.ly/NickJr360p
 
 #EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Movies", M Kidz 
@@ -346,7 +343,7 @@ http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
                   
-#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cinemaworld" tvg-logo="http://kamiselaluada.com/img/cmw.png" group-title="Movies", Cenima World 
@@ -364,7 +361,7 @@ http://rr.dens.tv/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Movies", MyCinema  Europe 
 http://rr.dens.tv/h/h18/01.m3u8 
 
-#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 
 #EXTINF:-1 group-title="Movies",Warner TV
@@ -406,7 +403,7 @@ http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Knowledge",SILENCE TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8 
 
-#EXTINF:-1, group-title="Knowledge" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD 
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
  
 #EXTINF:-1 group-title="Knowledge",CGTN DOCUMENTARY 
