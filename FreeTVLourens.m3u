@@ -1,8 +1,9 @@
+#EXTM3U
+
 #<!--- FreeTV & Monitoring--!>
 #---------Indonesia-------------#
 #-------------------------------#
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="nasional", ELSHINTA TV
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 
