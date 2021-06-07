@@ -233,7 +233,6 @@ http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h
 #EXTINF:-1 group-title="Movies",Dunia Games TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
-
 #EXTINF:-1 group-title="Movies",Hi Indo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
 
@@ -437,14 +436,26 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/tldhjvq55hjd/2sRJgcUghTOwcvVt8UEIsZ/cbe662f8ed25fc98b33ecdd94585f75b/atg.png" group-title="sports", ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O0JJEna.png" group-title="sports", BEIN SPORTS 1 ARABIC
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="sports", BEIN SPORTS 1 ARABIC
 http://ferrarico.referrari.com/live/60091_.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg" group-title="sports", BEIN SPORTS 2 ARABIC
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="sports", BEIN SPORTS 2 ARABIC
 http://ferrarico.referrari.com/live/60092_.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BeIN_Sports_3_HD.png/800px-BeIN_Sports_3_HD.png" group-title="sports", BEIN SPORTS 3 ARABIC
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="sports", BEIN SPORTS 3 ARABIC
 http://ferrarico.referrari.com/live/60093_.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="sports", BEIN SPORTS 4 ARABIC
+http://ferrarico.referrari.com/live/60169_.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="sports", BEIN SPORTS 5 ARABIC
+http://ferrarico.referrari.com/live/60170_.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="sports", BEIN SPORTS 6 ARABIC
+http://ferrarico.referrari.com/live/60171_.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="sports", BEIN SPORTS 7 ARABIC
+http://ferrarico.referrari.com/live/60172_.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg" group-title="sports", BEIN SPORTS 4 MAX
 http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8
@@ -476,7 +487,25 @@ http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/BTSPORT_3_BLACK_RGB.png" group-title="sports", BT Sports 3 HD
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="sports",ESPN 2 (720p)
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="sports", RMC SPORTS 1
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="sports", RMC SPORTS 2
+http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK1.png" group-title="sports", SPORT KLUB 1
+http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK2.png" group-title="sports", SPORT KLUB 2
+http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK3.png" group-title="sports", SPORT KLUB 3
+http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="sports",ESPN U
+https://gma2.blab.email/espnu.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="sports",ESPN 2 (720p)
 https://gma2.blab.email/espn2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-fox-tv-1609.jpg" group-title="Movies",FOX TV TÜRKIYE
@@ -518,6 +547,7 @@ http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="sports", FIGHT SPORTS 
 http://210.210.155.35:80/uq2663/h/h05/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://youflix4k.com/uploads/jpg/3b463f865ea2e0bed7aba7685496be7e.jpg" group-title="sports", TRUE PREMIER HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
@@ -21515,9 +21545,33 @@ https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://www.etv.go.kr/images/newimg/logo.png" group-title="",한국선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.fr" tvg-name="AdultIPTV.net Anal" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.fr" tvg-name="AdultIPTV.net Asian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.fr" tvg-name="AdultIPTV.net Big Ass" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.fr" tvg-name="AdultIPTV.net Big Dick" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.fr" tvg-name="AdultIPTV.net Big Tits" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.fr" tvg-name="AdultIPTV.net Blonde" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.fr" tvg-name="AdultIPTV.net Blowjob" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
 
 
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.fr" tvg-name="AdultIPTV.net Brunette" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
 
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.fr" tvg-name="AdultIPTV.net Teen" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
 
 
 
