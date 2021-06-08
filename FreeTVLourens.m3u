@@ -167,11 +167,11 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-rtv
 http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160668?play_token=aH9dft2lFi&token=ShdcBRFREglDUFdQWlVcVgQFXVYJCQFRXlxcDAJSCwRVA1ZWBwhSVVFGHxERR0tSUF5mClwbCQZQVQ8DD04bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEIAg0YRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHcHEVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg==
 
   
-#EXTINF:-1 group-title="Nasional",CNN 2
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.9.5" group-title="Nasional",CNN 2
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="Nasional",INEWS 2
-https://etslive-2-vidio-com.akamaized.net/exp=1622746821~acl=/hls-p/ingest_5409_*/*~hmac=67e78cf8b3da3c0b7e371b8e59da6eed260060fdaf4d74470258840d3c07aa3c/hls-p/ingest_5409_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://dev-ssr.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Nasional",INEWS 2
+https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
 
  
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3qJzB7DThwYsbWIrCcCtAnWHoTM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png" tvg-id="RIYAN.21dab64a6e5610d23ee813ac04e2ed7b.SHINTA" tvg-name" Metro TV" group-title="Nasional", METRO TV 2
