@@ -197,9 +197,21 @@ http://iya.mba:8888/live/siingkat/BMBJh/767.ts
 #EXTINF:-1 group-title="Movies",MCC
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
  
- 
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Movies", AXN 
-http://rr.dens.tv/h/h141/01.m3u8 
+http://rr.dens.tv/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-language="Spanish" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Movies",AXN 2
+http://136.243.177.164/AXN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Movies",AXN 3
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Movies",AXN INDONESIA
+http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-name="AXN [Vietnam]" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Movies",AXN VIETNAM
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Movies", KIX HD 1
 http://rr.dens.tv/h/h07/01.m3u8                      
@@ -2309,14 +2321,6 @@ http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AWE Encore" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60482f63cfbf071d6151ca95" group-title="News",AWE Encore
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
-#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-country="US" tvg-language="Spanish" tvg-logo="" group-title="Movies",AXN
-http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN [Indonesia]" tvg-country="" tvg-language="" tvg-logo="" group-title="",AXN [Indonesia]
-http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN [Vietnam]" tvg-country="" tvg-language="" tvg-logo="" group-title="",AXN [Vietnam]
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 tvg-id="" tvg-name="AXS TV Now" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="Music",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="Ayaat.sa" tvg-name="Ayaat" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://ayaat.com.sa/wp-content/uploads/2018/04/new-logo1.png" group-title="Religious",Ayaat
