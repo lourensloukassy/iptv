@@ -4,12 +4,17 @@
 #---------Indonesia-------------#
 #-------------------------------#
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="nasional",ARIRANG 
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="nasional", ELSHINTA TV
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EuyIh5xxwKHZ5tnVhjyFdOZKjII=/640x360/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="nasional", MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mola.png" group-title="nasional",Mola TV Free
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6840_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="nasional", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
@@ -188,11 +193,26 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 
 #-------------movie-----------------#
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citrabioskop.png" group-title="Movies",Citra Bioskop
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citradangdut.png" group-title="Movies",Citra Dangdut
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6587_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citraentertainment.png" group-title="Movies",Citra Entertainment
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6402_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="Movies",tvN EN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/r_hHy-0yyOqMWkG_USKHWkYIjvA=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/9869f1.png" tvg-id="RIYAN.c86c4034ca638aa5b81c00c37985f83c.SHINTA" tvg-name" TVN" group-title="Movies", TVN
-http://iya.mba:8888/live/siingkat/BMBJh/767.ts
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="Movies",TVN
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
+
 
 #EXTINF:-1 group-title="Movies",MCC
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
@@ -386,6 +406,12 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 #EXTINF:-1 group-title="Movies",Warner TV
 http://bonev2.xyz/playlist/usee-warner-new-bonetv.m3u8
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Movies",Zee Bioskop
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zing.png" group-title="Movies",Zing
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8
+
 
 #------------------#
 
@@ -452,7 +478,19 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 
 #---------------------------------#
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/tldhjvq55hjd/2sRJgcUghTOwcvVt8UEIsZ/cbe662f8ed25fc98b33ecdd94585f75b/atg.png" group-title="sports", ATG
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="sports",Champions TV 1
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="sports",Champions TV 2
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="sports",Champions TV 3
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/tldhjvq55hjd/2sRJgcUghTOwcvVt8UEIsZ/cbe662f8ed25fc98b33ecdd94585f75b/atg.png" group-title="sports", ATG SPORTS
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="sports", BEIN SPORTS 1 ARABIC
