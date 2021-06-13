@@ -122,6 +122,11 @@ VIDEOS = {'JAPAN VOD XXX':
                       'thumb': '',
                       'video': 'http://iptv.xprime.one/r/21/index.m3u8',
                       'genre': 'LIVE TV XXX'}  
+                     ],
+    'VIDEO VIRAL': [{'name': 'PRANK OJOL',
+                      'thumb': 'https://drive.google.com/uc?export=download&id=1rrahsFLMUhd1zc1YZwfItw_BwUA9h1c7',
+                      'video': 'https://drive.google.com/uc?export=download&id=1qVgwxLz75OWvvinQq3tKvdsfFGnZczR-',
+                      'genre': 'VIDEO VIRAL'}
                      ]}
 
 
