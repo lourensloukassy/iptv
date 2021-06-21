@@ -938,16 +938,6 @@ http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:-1, НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
-#EXTINF:-1, Jasmin TV HD
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1, Jasmin channel 18+ HD
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
-#EXTINF:-1, Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w359453841.m3u8
-#EXTINF:-1, JASMIN.TV (18+)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1, Jasmin TV (18+)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1, CCTV 5 Спорт HD
 http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1, 112 UA
@@ -1304,4 +1294,3 @@ http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
 #EXTINF:-1, Travel HD BG
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-
