@@ -854,19 +854,19 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 group-title="Movies",Gem Kids
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 
-#EXTINF:0 group-title="Movies",FoxMovies
+#EXTINF:-1 group-title="Movies",FoxMovies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
-#EXTINF:0 group-title="Movies",Foxlife
+#EXTINF:-1 group-title="Movies",Foxlife
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
-#EXTINF:0 group-title="Movies",FoxFamilyMovie
+#EXTINF:-1 group-title="Movies",FoxFamilyMovie
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 
-#EXTINF:0 group-title="Movies",Fox HD
+#EXTINF:-1 group-title="Movies",Fox HD
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 
-#EXTINF:0 group-title="Movies",Fox Crime
+#EXTINF:-1 group-title="Movies",Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
  
 #EXTINF:-1 group-title="Movies",HBO
