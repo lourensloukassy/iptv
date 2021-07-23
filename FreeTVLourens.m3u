@@ -197,8 +197,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 
+#---------------MovieSports------------#
 
-#-------------MOVIESPORTS-----------------#
 #EXTINF:-1,A&E
 http://31.220.41.88:8081/live/us-ae.stream/playlist.m3u8
 #EXTINF:-1,ABC
@@ -295,7 +295,7 @@ http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/nl-foxsports6.stream/playlist.m3u8
 #EXTINF:-1,ESPN HD
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
-#EXTIN:-1,Eurosport 2
+#EXTINF:-1,Eurosport 2
 http://31.220.41.88:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-1,FOX
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
@@ -389,7 +389,7 @@ http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
 #EXTINF:-1,Starz Cinema
 http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
-#EXTIN:-1,Starz Edge
+#EXTINF:-1,Starz Edge
 http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
 #EXTINF:-1,Starz Encore
 http://31.220.41.88:8081/live/us-starzencore.stream/playlist.m3u8
@@ -790,7 +790,6 @@ http://185.99.253.46:8000/play/a029
 #EXTINF:-1,c4 l
 http://185.99.253.46:8000/play/a00i
 
-#-------------SPORTS-----------------#
 
 
 #-------------movie-----------------#
