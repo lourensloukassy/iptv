@@ -1,6 +1,6 @@
 #EXTM3U
 
-#<!--- FreeTV & Monitoring--!>#
+#<!--- FreeTV & Monitoring--!>
 #---------Indonesia-------------#
 #-------------------------------#
 
@@ -1121,7 +1121,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
 
-#---------Channel XXX▬▬-------------#
+#---------Channel XXX-------------#
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two HD UK" tvg-logo="https://picon-13398.kxcdn.com/virginmediatwouk.jpg" group-title="Live: United Kingdom",Virgin Media Two HD UK
 http://tv.iptvstack.net:80/brunoplayarnea/NX02we47/20027
 #EXTINF:-1 tvg-id="4Music.uk" tvg-name="4Music UK" tvg-logo="https://picon-13398.kxcdn.com/4music.jpg" group-title="Live: United Kingdom",4Music UK
