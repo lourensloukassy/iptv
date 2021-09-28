@@ -16,20 +16,57 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="FREE TO AIR", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png" group-title="FREE TO AIR", CHANNEL7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ass-media.de/pic/_data/i/upload/2016/06/09/20160609194842-976cfebe-th.png" group-title="FREE TO AIR", MRTV4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU" group-title="FREE TO AIR",BEIN SPORTS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpWGXpTZgLtGsmHhKZFWzurOdVtMBVCMOxw&usqp=CAU" group-title="FREE TO AIR",BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/107-1070585_fox-action-movies.png" group-title="FREE TO AIR",FOX ACTION MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+
+#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/typo3temp/_processed_/2/5/csm_259-101_import_25edc075db.png" group-title="FREE TO AIR",FOX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1621590310_fox-crime.jpg" group-title="FREE TO AIR",FOX CRIME
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/406_fox_life.jpg" group-title="FREE TO AIR",FOX LIFE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266373_fox-family-movies-sd.jpg" group-title="FREE TO AIR",FOX FAMILY MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/149-1495237_fox-movies-logo-png-transparent-png.png" group-title="FREE TO AIR",FOX MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/misteriluhur.com/wp-content/uploads/2021/06/121212.jpg?w=254&ssl=1" group-title="FREE TO AIR", SHOWBIZ 
 http://210.210.155.35/x6bnqe/s/s113/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="FREE TO AIR", RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" group-title="FREE TO AIR", MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="FREE TO AIR", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="FREE TO AIR", INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="FREE TO AIR", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -644,10 +681,6 @@ http://185.99.253.46:8000/play/a00i
 #EXTINF:-1 tvg-id="ClassicMoviesChannel.us" tvg-name="Classic Movies Channel" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/pltVS6t.png" group-title="Movies",Classic Movies Channel (480p)
 https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="Movies",tvN EN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Movies",MCC
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
 
@@ -747,11 +780,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="Movies",RED by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-
-#EXTINF:-1 group-title="Movies",Bioskop Indonesia
-http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
-
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat 
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
@@ -759,54 +787,10 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
-#------------------#
-
-
-#----------------Knowledge------------------------#
-
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic 
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
-#EXTINF:-1  group-title="Knowledge",Nasa
-http://a92cb231-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=e02c631056eedfa1f9ba417db7dbc9057065fe72
-
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (V)
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People (V)
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild (V)
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/discoverychannel.png" group-title="Knowledge",Discovery Asia (V)
-http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
-http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8 
-
-#EXTINF:-1 group-title="Knowledge",SILENCE TV
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8 
- 
-#EXTINF:-1 group-title="Knowledge",CGTN DOCUMENTARY 
-http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
-
-#EXTINF:-1 group-title="Knowledge",TLC 2
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="Knowledge",Outdoor Channel
-http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1  group-title="Knowledge",DIGIONE MAXstream
+#EXTINF:-1 group-title="Knowledge",DIGIONE MAXstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
-#EXTINF:-1  group-title="Knowledge", Bisnet Adventure 4K
+#EXTINF:-1 group-title="Knowledge", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Knowledge", Bisnet Lifestyle
@@ -824,11 +808,110 @@ http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Knowledge",  FRANCH 24
 http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
 
+#EXTINF:-1 group-title="Knowledge",CGTN DOCUMENTARY 
+http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
 
-#---------------------------------#
+#------------------#
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/tldhjvq55hjd/2sRJgcUghTOwcvVt8UEIsZ/cbe662f8ed25fc98b33ecdd94585f75b/atg.png" group-title="sports", ATG SPORTS
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#----------------Documentary------------------------#
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="AMCAbsoluteReality.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Documentary",AMC Absolute Reality (1080p)
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="Documentary",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="Documentary",CCTV-9纪录 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Documentary",Court TV (1080p)
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360 (720p)
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimeTime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DangerTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4aTk45R.png" group-title="Documentary",Danger TV (720p)
+https://dangertv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Docurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",Docurama (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-id="GEMModernEconomy.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/modern_economy.png" group-title="Documentary",GEM Modern Economy (540p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.gemonline.tv/en-US/Live/Index?channelname=modern_economy
+https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8
+#EXTINF:-1 tvg-id="H2.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-history2.png" group-title="Documentary",H2 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="HDL.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Documentary",HDL [Not 24/7]
+https://sc.id-tv.kz/hdl.m3u8
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-country="TH" tvg-language="Thai" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",History Asia (Thai) (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="HistoryEast.us" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",History East (720p) [Not 24/7]
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Documentary",La 2 (720p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Documentary",Law & Crime (720p)
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrimeXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Documentary",Law & Crime (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MagellanTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="Documentary",Magellan TV (720p)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 tvg-id="MonarchChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="Documentary",Monarch Channel (720p)
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="Documentary",National Geographic Abu Dhabi (1080p)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWildRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary",National Geographic Wild Russia (1080p) [Not 24/7]
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBiography.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="Documentary",Pluto TV Biography (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Documentary",Pluto TV Documentaries (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" tvg-country="US" tvg-language="German" tvg-logo="http://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Documentary",Pluto TV Documentaries (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVForensicFiles.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="Documentary",Pluto TV Forensic Files (720p)
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521
+#EXTINF:-1 tvg-id="PlutoTVForensicFilesenESP.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="Documentary",Pluto TV Forensic Files en ESP (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e94cd036cc69d0007e8a1ba&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=933&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVMy5Documentaries.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Documentary",Pluto TV My5 Documentaries (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf901280e3550009139c86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=475&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVN24Doku.us" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/60080e8a4bf36000076a81b1/colorLogoPNG.png" group-title="Documentary",Pluto TV N24 Doku (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVoyagerDocumentaries.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentary",Pluto TV Voyager Documentaries (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=589aa03df9ba56a84197a560&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=681&terminate=false&userId=
+#EXTINF:-1 tvg-id="RakutenDocumentariesDenmark.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="Documentary",Rakuten Documentaries (Denmark) (720p)
+https://rakuten-documentaries-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenDocumentariesFinland.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="Documentary",Rakuten Documentaries (Finland) (720p)
+https://rakuten-documentaries-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenDocumentariesFrance.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="Documentary",Rakuten Documentaries (France) (720p)
+https://rakuten-documentaries-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenDocumentariesItaly.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="Documentary",Rakuten Documentaries (Italy) (720p)
+https://rakuten-documentaries-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenDocumentariesNetherland.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="Documentary",Rakuten Documentaries (Netherland) (720p)
+https://rakuten-documentaries-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenDocumentariesNorway.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="Documentary",Rakuten Documentaries (Norway) (720p)
+https://rakuten-documentaries-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenDocumentariesSweden.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="Documentary",Rakuten Documentaries (Sweden) (720p)
+https://rakuten-documentaries-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Reelz.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="Documentary",Reelz (720p)
+https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
+#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="Documentary",Reelz Channel (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p)
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDoc.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/C6fylkt.png" group-title="Documentary",RT Documentary Russian (1080p)
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="Sightline.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b6665bf6bbf67610fbf02" group-title="Documentary",Sightline (720p)
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="STIRRDocurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",STIRR Docurama (1080p)
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1 tvg-id="SwordandShield.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xwHhiAc.png" group-title="Documentary",Sword and Shield (720p)
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8
+#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vPlVuv8.jpg" group-title="Documentary",Voyager Documentaries (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherGoneViral.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3d8b9f3978154b03b203" group-title="Documentary",Weather Gone Viral (720p)
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+
+#---------------SPORTS------------------#
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg" group-title="sports", BEIN SPORTS 4 MAX
 http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8
@@ -841,15 +924,6 @@ http://stream.tvtap.live:8081/live/fr-beinmax6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg" group-title="sports", BEIN SPORTS 7 MAX
 http://stream.tvtap.live:8081/live/fr-beinmax7.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O0JJEna.png" group-title="sports", BEIN SPORTS 1 ENGLISH
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="sports", BEIN SPORTS 2 ENGLISH
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="sports",BEIN SPORTS XTRA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://silvadaily.com/wp-content/uploads/2021/02/BT-Sport-1-Premier-League-New-Biss-Key-2021.jpg" group-title="sports", BT Sports 1 HD
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
@@ -875,56 +949,406 @@ http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK3.png" group-title="sports", SPORT KLUB 3
 http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-fox-tv-1609.jpg" group-title="Movies",FOX TV TÜRKIYE
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-fox-tv-1609.jpg" group-title="Movies",FOX TV HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="sports",FOX Sports (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id="FOXSportsHD1.us" tvg-name="FOX Sports HD 1" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="sports",FOX Sports HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="sports",Fox Sports Australia
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
-
-#EXTINF:-1 tvg-id="FoxSportsAsia.us" tvg-name="Fox Sports Asia" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="sports",Fox Sports Asia
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports2Asia.us" tvg-name="Fox Sports 2 Asia" tvg-country="US" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/836_300.png" group-title="sports",Fox Sports 2 Asia (720p)
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="sports",Fox Sports 3 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-name="Fox Sports 3 Asia" tvg-country="US" tvg-language="English" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="sports",Fox Sports 3 Asia (720p)
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="sports", FTF Sports
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/04/banner-696x465.jpg" group-title="sports", DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/219-2193037_nbc-sports-nbcsn-boston-hd-png-download.png" group-title="sports", NBCSN HD 
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="sports", FIGHT SPORTS 
 http://210.210.155.35:80/uq2663/h/h05/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://youflix4k.com/uploads/jpg/3b463f865ea2e0bed7aba7685496be7e.jpg" group-title="sports", TRUE PREMIER HD 1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://youflix4k.com/uploads/jpg/3b463f865ea2e0bed7aba7685496be7e.jpg" group-title="sports", TRUE PREMIER HD 2
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mysavings.com/img/link/large/101867.jpg" group-title="sports", UFC/MMA TV 
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Stadium_logo_2017.png/250px-Stadium_logo_2017.png" group-title="sports", STADIUM TV
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="Sports",Abu Dhabi Sports 2 (1080p)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="Sports",Abu Dhabi Sports 3 (1080p)
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="Sports",ACC Network (720p)
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="Sports",Adventure Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wZk4nZI.png" group-title="Sports",Adventure Sports TV (360p) [Not 24/7]
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1 tvg-id="AlfaSport.cy" tvg-country="CY" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/Vq4YBIA.png" group-title="Sports",Alfa Sport (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="ATG.se" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="Sports",ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 tvg-id="ATG.se" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Sports",ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sports",Bahrain Sports 1 (720p)
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+#EXTINF:-1 tvg-id="BekSportsEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sports",Bek Sports East (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-id="BekSportsWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sports",Bek Sports West (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" group-title="Sports",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-country="NO" tvg-language="English" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="Sports",Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-id="CaptitalOTBBetting.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="Sports",Captital OTB Betting (720p)
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sports",CCTV-5体育 (1080p)
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 tvg-id="ChannelFight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cruTxMF.png" group-title="Sports",Channel Fight (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+#EXTINF:-1 tvg-id="CRTVyRadio.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="Sports",CR-TV y Radio (360p)
+https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing 3 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sports",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="Sports",Dubai Sports 2 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="Sports",Dubai Sports 3 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="Sports",EDGEsport (1080p)
+https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sports",EDGEsport (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="Sports",EDGEsport (1080p)
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aAUbLhE.png" group-title="Sports",EDGEsport (1080p)
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGESport.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjhf/EdgeSport_400x400.png" group-title="Sports",EDGESport (1080p)
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsportSTIRR.uk" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Sports",EDGEsport (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="Sports",EDGEsport (US) (720p)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="Sports",Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 tvg-id="ESTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/B3oElWL.jpg" group-title="Sports",ESTV (1080p)
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bf32e5d221b1e5a7e55" group-title="Sports",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="FightBoxHD.us" tvg-country="US" tvg-language="English" tvg-logo="https://i0.pngocean.com/files/812/462/345/filmbox-hd-high-definition-television-set-top-box-broadcasting-fightbox.jpg" group-title="Sports",FightBox HD (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1 tvg-id="Fite.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21QWq2v0DGL.png" group-title="Sports",Fite (720p) [Not 24/7]
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1 tvg-id="FootballDailyXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VJyUVQ2.png" group-title="Sports",Football Daily (XUMO) (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FoxSports2Asia.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Sports",Fox Sports 2 Asia (Thai) (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Sports",Fox Sports 2 Latin America (1080p)
+http://209.91.213.10:8088/play/a02r
+#EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports3.png" group-title="Sports",Fox Sports 3 Asia (Thai) (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FoxSportsNewsAustralia.us" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/X491SzR.gif" group-title="Sports",Fox Sports News Australia (720p)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="FoxSportsThailand.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports1.png" group-title="Sports",Fox Sports Thailand (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="Sports",FreeSports (1080p) [Not 24/7]
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:-1 tvg-id="FTF.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="Sports",FTF (720p)
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cArIeKS.png" group-title="Sports",fubo Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="Sports",Fuel TV (1080p)
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="Sports",Fuel TV [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Sports",Glory Kickboxing (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannelThailand.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="Sports",Golf Channel Thailand (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="grvty.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6065639a7ec4e2633f0c7d83" group-title="Sports",grvty (1080p)
+https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="HardKnocks.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzA3OTUzMjRf?inline=1" group-title="Sports",Hard Knocks (1080p)
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:-1 tvg-id="HardKnocks.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjRf/HardKnocks_490x490.png" group-title="Sports",Hard Knocks (1080p) [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+#EXTINF:-1 tvg-id="HorizonSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Sports",Horizon Sports (720p)
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="Sports",IMPACT! Wrestling (1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="KBPSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="Sports",KBP Sports (720p)
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="" group-title="Sports",KSA Sports 1 (1080p)
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="" group-title="Sports",KSA Sports 2 (1080p)
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Sports",KTV Sport (1080p) [Not 24/7]
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Sports",Lax Sports Network TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="LocalNowSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987" group-title="Sports",Local Now Sports (720p)
+https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6ZnRHoE.jpg" group-title="Sports",LSN (720p)
+https://asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV (1080p)
+https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTV.us" tvg-country="CA" tvg-language="CA" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV (720p)
+https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTVAustralia.us" tvg-country="AU" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV Australia (720p)
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV Europe (720p)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTVIndia.us" tvg-country="IN" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV India (720p)
+http://mavtv-mavtvglobal-1-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavtVNorway.us" tvg-country="NO" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV Norway (720p)
+https://mavtv-mavtvglobal-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTVUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV UK (720p)
+https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="Sports",MMA Junkie (720p)
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" group-title="Sports",Monterrico TV (1080p) [Not 24/7]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/solidLogoPNG.png" group-title="Sports",Motorvision TV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:-1 tvg-id="NBATV.us" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-nba.png" group-title="Sports",NBA TV (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sports",New Japan Pro Wrestling World (540p)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="NileTVSport.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/sport/sport.png" group-title="Sports",Nile TV Sport (576p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="NitroCircus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="Sports",Nitro Circus (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sports",Oman Sports TV (1080p)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OneGolf.pk" tvg-country="PK" tvg-language="" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="Sports",One Golf (720p)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" group-title="Sports",ORF Sport+ (540p) [Geo-blocked]
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/ovacionperu/picture?width=320&height=320" group-title="Sports",Ovación TV (Lima) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3lp7suq.png" group-title="Sports",Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjdf/PAC12_720x720.png" group-title="Sports",Pac12 Insider (720p)
+https://pac12-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="Sports",Players TV (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/d3EaS41.png" group-title="Sports",Players TV (1080p)
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="Sports",Players TV (1080p)
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Sports",Pluto TV Action Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Sports",Pluto TV Action Sports (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAllEliteWrestling.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="Sports",Pluto TV All Elite Wrestling (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVAutoMotorSport.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Sports",Pluto TV Auto Motor Sport (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVAutoMotorSport.us" tvg-country="US" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Sports",Pluto TV Auto Motor Sport (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVBellatorMMA.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports",Pluto TV Bellator MMA (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Sports",Pluto TV Boxing (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCombateWorld.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Sports",Pluto TV Combate World (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Sports",Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVESR24/7.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="Sports",Pluto TV ESR 24/7 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVFight.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Sports",Pluto TV Fight (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVFOXSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports",Pluto TV FOX Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVFutbolParaFans.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="Sports",Pluto TV Fútbol Para Fans (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVGloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports",Pluto TV Glory Kickboxing (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5417a212ff9fba68282fbf5e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=736&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",Pluto TV IMPACT Wrestling (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVMLB.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports",Pluto TV MLB (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVMLS.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="Sports",Pluto TV MLS (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
+#EXTINF:-1 tvg-id="PlutoTVNFLChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports",Pluto TV NFL Channel (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVPGATOUR.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports",Pluto TV PGA TOUR (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVPlutoActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",Pluto TV Pluto Action Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVProWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="Sports",Pluto TV Pro Wrestling (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVSPORTBeINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
+#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="Sports",Pluto TV Sports (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
+#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="Sports",Pluto TV Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bb941b95267e225e59c2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSportsEngland.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="Sports",Pluto TV Sports (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVYoga.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="Sports",Pluto TV Yoga (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
+#EXTINF:-1 tvg-id="PlutoTVYoga.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="Sports",Pluto TV Yoga (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b0d10e186bf0007e2b100&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2c143e9d-0cd6-4d02-8b92-df3471ececef&terminate=false&userId=
+#EXTINF:-1 tvg-id="PokerTV.fr" tvg-country="IR" tvg-language="" tvg-logo="https://i.imgur.com/l5fZQ3V.png" group-title="Sports",Poker TV [Not 24/7]
+http://51.210.199.17/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q7pYaJR.png" group-title="Sports",Rede Globo RJ (720p)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 tvg-id="RingofHonorWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="Sports",Ring of Honor Wrestling (720p)
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-country="SM;IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="Sports",San Marino RTV Sport (240p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
+#EXTINF:-1 tvg-id="SharjahSportsTV.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sports",Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SKITV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjlf/SkiTV_400x400.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1 tvg-id="SkiTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://content.weyyak.com/af0ecf95-8dc9-443d-9b4f-bc01eab7bd30/poster-image" group-title="Sports",Ski TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:-1 tvg-id="SkyNetSports.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sports",Sky Net Sports (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SkyNetSports1.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports1.png" group-title="Sports",Sky Net Sports 1 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SkyNetSports2.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports2.png" group-title="Sports",Sky Net Sports 2 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SkyNetSports3.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports3.png" group-title="Sports",Sky Net Sports 3 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SkyNetSports4.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports4.png" group-title="Sports",Sky Net Sports 4 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SkyNetSports5.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports5.png" group-title="Sports",Sky Net Sports 5 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SkyNetSports6.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sports",Sky Net Sports 6 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="Sports",Snowy Mountains Television (1082p) [Geo-blocked]
+https://c.mjh.nz/snowy-mountains
+#EXTINF:-1 tvg-id="Sport1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wBJI5Jw.png" group-title="Sports",Sport 1 [Not 24/7]
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 tvg-id="SportsChannelNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ytimg.com/vi/2FtbPXeYTvo/maxresdefault.jpg" group-title="Sports",Sports Channel Network (720p)
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsTonight.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="Sports",Sports Tonight (576p)
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="Sports",Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/46gdAeg.png" group-title="Sports",SportsGrid (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="Sports",SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportskoolTV.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",Sportskool TV (720p)
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 tvg-id="STIRRMavTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",STIRR MavTV (720p)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRStadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",STIRR Stadium (720p)
+http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="STIRRTennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="Sports",STIRR Tennis Channel (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 tvg-id="STIRRWhistleSportsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="Sports",STIRR Whistle Sports (720p)
+https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
+#EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sports",Swiss Sport TV (720p)
+https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TDMSportsMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Sports",TDM Sports Macau (720p)
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="Sports",Tennis Channel (720p)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannelPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="Sports",Tennis Channel+ 1 (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="Sports",Tennis Channel+ 2 (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
+#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 2 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 3 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 4 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 5 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceSportStarsAustralia.fr" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Sports",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootballHD1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports",True Premier Football HD 1 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootballHD2.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports",True Premier Football HD 2 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootballHD3.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports",True Premier Football HD 3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootballHD4.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl4.png" group-title="Sports",True Premier Football HD 4 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootballHD5.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="Sports",True Premier Football HD 5 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sports",True Sport 5 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sports",True Sport 7 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSportHD1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="Sports",True Sport HD 1 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sports",True Sport HD 2 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSportHD3.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="Sports",True Sport HD 3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sports",True Sport HD 4 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueTennisHD.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tennis.png" group-title="Sports",True Tennis HD (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-country="TM" tvg-language="Turkmen" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Sports",Türkmenistan Sport (406p)
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 tvg-id="TV2Sporten.no" tvg-country="NO" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/SCeh3KR.png" group-title="Sports",TV 2 Sporten (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-country="ID" tvg-language="Indonesian;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Sports",TVRI Sport HD (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="Sports",TVS Boxing (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ui099xQ.jpg" group-title="Sports",TVS Classic Sports (720p)
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="Sports",TVS Sports (960p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Sports",TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="Sports",TVS Turbo (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jQdBjyx.jpg" group-title="Sports",TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",Unbeaten (1080p)
+https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KCKSLD8.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="Sports",Untamed Sports TV (KCKS-LD8) (480p) [Not 24/7]
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Sports",US SPORT Tennis Plus 1 (720p) [Not 24/7]
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-id="Wired2Fish.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1769345cf61eb60b5893" group-title="Sports",Wired2Fish (720p)
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Sports",World of Freesports (720p)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="Sports",World Poker Tour (1080p)
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
+#EXTINF:-1 tvg-id="Yas.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Sports",Yas (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Sports",Астрахань.Ru Sport (1080p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Sports",Старт (1080p)
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 tvg-id="Futbol1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/J1VuYAB.png" group-title="Sports",Футбол 1 [Not 24/7]
+https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
 #-----------#
 
@@ -2163,370 +2587,5 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-id="HeiMeiDianYing.cn" tvg-name="黑莓电影" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies",黑莓电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
 #-----------------------------#
-#EXTINF:-1, К1
-http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1, ИНТЕР
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1, ИНТЕР
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1, НТН
-http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
-#EXTINF:-1, НТН
-http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
-#EXTINF:-1, CCTV 5 Спорт HD
-http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1, 112 UA
-http://112.ua/components/flowplayer/html5/master.m3u8
-#EXTINF:-1, 112 Украина
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
-#EXTINF:-1, 112 Украина HD
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1, Рудана
-http://134.249.128.243/hls/stream_FHD.m3u8
-#EXTINF:-1, TVM Channel
-http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
-#EXTINF:-1, MTV USA
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1, Fox Спортs Racing HD
-http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
-#EXTINF:-1, Fox Спортs Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1, Спорт 1 HD
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1, Спорт MAX HD
-http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
-#EXTINF:-1, ESPN 2
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1, Flow Спортs 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
-#EXTINF:-1, FLOW Спортs 1 HD
-http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1, Eurosport 1 (Резерв4)
-http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
-#EXTINF:-1, Eurosport 2
-http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1, СТС International
-http://163.172.179.78:8081/tv/STS-int/playlist.m3u8
-#EXTINF:-1, American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1, Матч!
-http://176.114.16.54:80/match/index.m3u8
-#EXTINF:-1, 8 Канал
-http://176.99.110.252/stream8/playlist.m3u8
-#EXTINF:-1, Лида ТВ
-http://178.159.44.252/hls.m3u8
-#EXTINF:-1, Дом кино премиум HD
-http://178.217.72.66/225.201.2.112/tracks-v1a1/mono.m3u8
-#EXTINF:-1, FOX HD
-http://178.217.72.66/225.201.2.13/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Eurosport 2 HD
-http://178.217.72.66/225.201.2.150/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Eurosport 2 HD
-http://178.217.72.66/225.201.2.150/video.m3u8
-#EXTINF:-1, VIP Comedy
-http://178.217.72.66/225.201.2.170/tracks-v1a1/mono.m3u8
-#EXTINF:-1, VIP Megahit
-http://178.217.72.66/225.201.2.171/tracks-v1a1/mono.m3u8
-#EXTINF:-1, VIP Premiere
-http://178.217.72.66/225.201.2.172/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Viasat History
-http://178.217.72.66/225.201.2.173/playlist.m3u8
-#EXTINF:-1, Viasat History HD
-http://178.217.72.66/225.201.2.173/tracks-v1a1/mono.m3u8
-#EXTINF:-1, НТВ HD
-http://178.217.72.66/225.201.2.247/tracks-v1a1/index.m3u8
-#EXTINF:-1, Animal Planet HD
-http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Кинопремьера
-http://178.217.72.66/225.201.2.46/playlist.m3u8
-#EXTINF:-1, Кинопремьера HD
-http://178.217.72.66/225.201.2.46/tracks-v1a1/mono.m3u8
-#EXTINF:-1, HD life
-http://178.217.72.66/225.201.2.48/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Discovery Channel HD
-http://178.217.72.66/225.201.2.50/tracks-v1a1/mono.m3u8
-#EXTINF:-1, MTV Live HD
-http://178.217.72.66/225.201.2.51/index.m3u8
-#EXTINF:-1, MTV Live HD
-http://178.217.72.66/225.201.2.51/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Hollywood
-http://178.217.72.66/225.201.2.76/index.m3u8
-#EXTINF:-1, Hollywood HD
-http://178.217.72.66/225.201.2.85/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Канал Disney
-http://178.217.72.66:80/225.201.2.105/tracks-v1a1/mono.m3u8
-#EXTINF:-1, O!
-http://178.217.72.66:80/225.201.2.109/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Дом кино премиум HD
-http://178.217.72.66:80/225.201.2.112/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Nickelodeon
-http://178.217.72.66:80/225.201.2.152/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Дом кино
-http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Кинокомедия
-http://178.217.72.66:80/225.201.2.177/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Киносерия
-http://178.217.72.66:80/225.201.2.181/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Мужское кино
-http://178.217.72.66:80/225.201.2.182/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Русский иллюзион
-http://178.217.72.66:80/225.201.2.194/tracks-v1a1/mono.m3u8
-#EXTINF:-1, t.me/tvlab Еврокино
-http://178.217.72.66:80/225.201.2.198/tracks-v1a1/mono.m3u8
-#EXTINF:-1, НСТ Страшное
-http://178.217.72.66:80/225.201.2.200/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Fox Life
-http://178.217.72.66:80/225.201.2.203/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Пятый канал
-http://178.217.72.66:80/225.201.2.206/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Мир сериала
-http://178.217.72.66:80/225.201.2.219/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Travel+ Adventure
-http://178.217.72.66:80/225.201.2.233/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ТНТ
-http://178.217.72.66:80/225.201.2.242/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ТВ-3
-http://178.217.72.66:80/225.201.2.26/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Кинохит
-http://178.217.72.66:80/225.201.2.44/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Наше Новое Кино
-http://178.217.72.66:80/225.201.2.45/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Киносемья
-http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Киносвидание
-http://178.217.72.66:80/225.201.2.55/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Родное кино
-http://178.217.72.66:80/225.201.2.56/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Трофей
-http://178.217.72.66:80/225.201.2.57/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Рен ТВ
-http://178.217.72.66:80/225.201.2.58/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Киномикс
-http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Cartoon network
-http://178.217.72.66:80/225.201.2.73/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Extreme sports
-http://178.217.72.66:80/225.201.2.80/tracks-v1a1/mono.m3u8
-#EXTINF:-1, JIM JAM
-http://178.217.72.66:80/225.201.2.81/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Nick.Jr
-http://178.217.72.66:80/225.201.2.90/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Animal Planet
-http://178.217.72.66:80/225.201.2.91/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Eurosport 1
-http://178.217.72.66:80/225.201.2.93/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Диалоги о рыбалке
-http://178.217.72.66:80/225.201.2.96/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Amedia 2
-http://182.73.122.74:10000/bysid/306
-#EXTINF:-1, СТС Love
-http://182.73.122.74:10001/bysid/712
-#EXTINF:-1, Fine Living
-http://182.73.122.74:10003/bysid/920
-#EXTINF:-1, Paramount Channel
-http://182.73.122.74:10004/bysid/1105
-#EXTINF:-1, Paramount Comedy
-http://182.73.122.74:10004/bysid/1108
-#EXTINF:-1, Animal Planet
-http://182.73.122.74:10004/bysid/1112
-#EXTINF:-1, TLC Russia
-http://182.73.122.74:10004/bysid/1113
-#EXTINF:-1, ID Investigation Discovery
-http://182.73.122.74:10004/bysid/1114
-#EXTINF:-1, 1 Республиканский HD
-http://185.114.136.25/first-republic-tv
-#EXTINF:-1, Новороссия HD
-http://185.114.136.25/novorossia-tv
-#EXTINF:-1, Оплот HD
-http://185.114.136.25/oplot-tv
-#EXTINF:-1, Одинцово ТВ
-http://185.18.4.16/live/3m/playlist.m3u8
-#EXTINF:-1, Nano TV HD
-http://185.46.48.16/NANO/index.m3u8
-#EXTINF:-1, Nano TV HD
-http://185.46.48.16/NANO/tracks-v1a1/index.m3u8
-#EXTINF:-1, Щелковское ТВ
-http://185.76.145.71/live.m3u8
-#EXTINF:-1, O!
-http://188.113.190.12/136/tracks-v1a1/index.m3u8
-#EXTINF:-1, History
-http://188.113.190.12/189/tracks-v1a1/index.m3u8
-#EXTINF:-1, Мужское кино
-http://188.113.190.12/316/video.m3u8
-#EXTINF:-1, Fox
-http://188.113.190.12/57/tracks-v1a1/index.m3u8
-#EXTINF:-1, Eurosport 1
-http://188.113.190.12/82/tracks-v1a1/index.m3u8
-#EXTINF:-1, Ani
-http://188.113.190.12:80/102/tracks-v1a1/index.m3u8
-#EXTINF:-1, Телеканал Футбол
-http://188.113.190.12:80/105/tracks-v1a1/index.m3u8
-#EXTINF:-1, Русский роман
-http://188.113.190.12:80/107/tracks-v1a1/index.m3u8
-#EXTINF:-1, Мультимания
-http://188.113.190.12:80/108/tracks-v1a1/index.m3u8
-#EXTINF:-1, Кинокомедия
-http://188.113.190.12:80/129/tracks-v1a1/index.m3u8
-#EXTINF:-1, Fox Life
-http://188.113.190.12:80/14/tracks-v1a1/index.m3u8
-#EXTINF:-1, Детский мир
-http://188.113.190.12:80/153/tracks-v1a1/index.m3u8
-#EXTINF:-1, Оружие
-http://188.113.190.12:80/155/tracks-v1a1/index.m3u8
-#EXTINF:-1, Outdoor Channel
-http://188.113.190.12:80/170/tracks-v1a1/index.m3u8
-#EXTINF:-1, Sony Turbo
-http://188.113.190.12:80/186/tracks-v1a1/index.m3u8
-#EXTINF:-1, Русская комедия
-http://188.113.190.12:80/214/tracks-v1a1/index.m3u8
-#EXTINF:-1, SONY Channel
-http://188.113.190.12:80/22/tracks-v1a1/index.m3u8
-#EXTINF:-1, Моторспорт.ТВ
-http://188.113.190.12:80/220/tracks-v1a1/index.m3u8
-#EXTINF:-1, Центральное телевидение HD
-http://188.113.190.12:80/228/tracks-v1a1/index.m3u8
-#EXTINF:-1, Sony Sci-Fi
-http://188.113.190.12:80/23/tracks-v1a1/index.m3u8
-#EXTINF:-1, Cупер
-http://188.113.190.12:80/230/tracks-v1a1/index.m3u8
-#EXTINF:-1, Феникс + Кино
-http://188.113.190.12:80/24/tracks-v1a1/index.m3u8
-#EXTINF:-1, Animal Planet
-http://188.113.190.12:80/26/tracks-v1a1/index.m3u8
-#EXTINF:-1, DTX
-http://188.113.190.12:80/36/tracks-v1a1/index.m3u8
-#EXTINF:-1, Discovery Science
-http://188.113.190.12:80/37/tracks-v1a1/index.m3u8
-#EXTINF:-1, TLC
-http://188.113.190.12:80/38/tracks-v1a1/index.m3u8
-#EXTINF:-1, Extreme sports
-http://188.113.190.12:80/39/tracks-v1a1/index.m3u8
-#EXTINF:-1, Nickelodeon
-http://188.113.190.12:80/43/tracks-v1a1/index.m3u8
-#EXTINF:-1, Русский иллюзион
-http://188.113.190.12:80/44/tracks-v1a1/index.m3u8
-#EXTINF:-1, Zee TV
-http://188.113.190.12:80/51/tracks-v1a1/index.m3u8
-#EXTINF:-1, Galaxy-TV
-http://188.113.190.12:80/62/tracks-v1a1/index.m3u8
-#EXTINF:-1, Мужской
-http://188.113.190.12:80/64/tracks-v1a1/index.m3u8
-#EXTINF:-1, Охота и рыбалка
-http://188.113.190.12:80/69/tracks-v1a1/index.m3u8
-#EXTINF:-1, Усадьба ТВ
-http://188.113.190.12:80/71/tracks-v1a1/index.m3u8
-#EXTINF:-1, Психология 21
-http://188.113.190.12:80/73/tracks-v1a1/index.m3u8
-#EXTINF:-1, Eurosport 2
-http://188.113.190.12:80/83/tracks-v1a1/index.m3u8
-#EXTINF:-1, Nat Geo Wild  1
-http://188.113.190.12:80/84/tracks-v1a1/index.m3u8
-#EXTINF:-1, Победа
-http://188.113.190.12:80/85/tracks-v1a1/index.m3u8
-#EXTINF:-1, ID Investigation Discovery
-http://188.113.190.12:80/88/tracks-v1a1/index.m3u8
-#EXTINF:-1, Russian Travel Guide
-http://188.113.190.12:80/96/tracks-v1a1/index.m3u8
-#EXTINF:-1, KRAL ARABESK HD
-http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1, 100 automoto.TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1, 7S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1, Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1, Такт/Рен ТВ (Курск)
-http://109.194.62.29:8080
-#EXTINF:-1, Башкортостан 24
-http://109.233.169.137/hls/b24-hls.m3u8
-#EXTINF:-1, К1
-http://109.68.40.67/life/k1.m3u8
-#EXTINF:-1, Мир Бурятия (Улан-Удэ)
-http://188.191.168.81/live/playlist.m3u8
-#EXTINF:-1, Интер
-http://188.35.9.11:11031/z
-#EXTINF:-1, News One
-http://188.35.9.11:11158/d
-#EXTINF:-1, 1+1
-http://188.35.9.11:2001
-#EXTINF:-1, СТБ
-http://188.35.9.11:2002
-#EXTINF:-1, ViP Megahit HD
-http://188.35.9.11:2016
-#EXTINF:-1, КиноПремиум HD
-http://188.35.9.11:2017
-#EXTINF:-1, Мужское кино HD
-http://188.35.9.11:2022
-#EXTINF:-1, МАТЧ! ФУТБОЛ 1
-http://188.35.9.11:2025
-#EXTINF:-1, U.HD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
-#EXTINF:-1, 1+1
-http://188.35.9.26:1050/udp/238.0.1.1:69000
-#EXTINF:-1, Дом Кино Премиум HD
-http://188.35.9.26:12030/udp/160l
-#EXTINF:-1, Private TV HD (18+)
-http://188.35.9.5:10005/stolen/153a/imposter.rar
-#EXTINF:-1, National Geographic Wild
-http://188.35.9.5:10020/stolen/487n/hot.dll
-#EXTINF:-1, 15 TV
-http://192.99.125.194:1935/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1, ВТВ Плюс(Херсон)
-http://193.107.128.8:8552/play/a007
-#EXTINF:-1, Артек Хрустальный HD
-http://193.238.110.3/2/hls/live.m3u8
-#EXTINF:-1, Артек Лесной HD
-http://193.238.110.3/5/hls/live.m3u8
-#EXTINF:-1, Артек Речной HD
-http://193.238.110.3/6/hls/live.m3u8
-#EXTINF:-1, Артек Озерный HD
-http://193.238.110.3/8/hls/live.m3u8
-#EXTINF:-1, М1
-http://193.33.39.107:8088/m1ua/index.m3u8
-#EXTINF:-1, Лен ТВ 24
-http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist_w109164134.m3u8
-#EXTINF:-1, 47 канал
-http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
-#EXTINF:-1, Туган Тел HD
-http://195.20.196.69:1935/tugantel/hd/playlist.m3u8
-#EXTINF:-1, Туган Тел
-http://195.20.196.69:1935/tugantel/tugantel1/playlist.m3u8
-#EXTINF:-1, ИТВ Крым
-http://195.5.108.14:1935/live/itv1/chunklist_w559956105.m3u8
-#EXTINF:-1, Интересное ТВ
-http://195.5.108.14:1935/live/itv1/playlist.m3u8
-#EXTINF:-1, 1HD Music TV
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1, Impact TV
-http://206.190.141.27:1935/live/impact/playlist.m3u8
-#EXTINF:-1, HTV KG
-http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
-#EXTINF:-1, Свое Радио - Retro Hit
-http://212.26.146.50:8000/retro1.mp3
-#EXTINF:-1, Между.Net HD
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/chunks.m3u8
-#EXTINF:-1, Между.Net (Междуреченск)
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1, СТB
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1, Hi On Line Jazz 256kb/s
-http://213.125.15.82:88/broadwavehigh.mp3?src=1
-#EXTINF:-1, Волгоград 1
-http://213.234.30.38/Live/1000k/stream.m3u8
-#EXTINF:-1, Turkmen Спорт
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1, OTTO 8 FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
-#EXTINF:-1, RMF 50s
-http://217.74.72.10:8000/rmf_50s
-#EXTINF:-1, Boomerang
-http://27.254.130.56/live01/ch18.m3u8
-#EXTINF:-1, Boomerang
-http://27.254.130.56:80/live01/ch18.m3u8
-#EXTINF:-1, This is Bulgaria HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1, Travel Channel HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
-#EXTINF:-1, Travel HD BG
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
 
