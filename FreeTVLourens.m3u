@@ -7,11 +7,32 @@
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="FREE TO AIR",ARIRANG 
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/EBSPlus1.kr.png" group-title="FREE TO AIR",EBS+ 1 (400p)
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/EBSPlus1.kr.png" group-title="FREE TO AIR",EBS+ 1
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/EBSPlus2.kr.png" group-title="FREE TO AIR",EBS+ 2 (400p)
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/EBSPlus2.kr.png" group-title="FREE TO AIR",EBS+ 2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="FREE TO AIR",ANIMAL PLANET HD
+http://78.58.133.179:28000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="FREE TO AIR",EUROSPORT 1 HD
+http://78.58.133.179:28000/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="FREE TO AIR",EUROSPORT 2 HD
+http://78.58.133.179:28000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/65/f3/7065f3203ee3972aee4e4e175912a0c4.jpg" group-title="FREE TO AIR",EXTREME SPORTS
+http://78.58.133.179:28000/play/a123/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="FREE TO AIR",FOX HD
+http://78.58.133.179:28000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="FREE TO AIR",FOOD NETWORK
+http://78.58.133.179:28000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="FREE TO AIR",FOX LIFE
+http://78.58.133.179:28000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png" group-title="FREE TO AIR", CHANNEL7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
@@ -54,59 +75,6 @@ http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="FREE TO AIR", TVONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1 tvg-ID="BeInSports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://manager.ndasat.pro/picons/1_0_1_189D_3F4_1_C00000_0_0_0.png" group-title="FREE TO AIR",|FR| BEIN SPORTS 1 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/2431
-#EXTINF:-1 tvg-ID="BeInSports1.fr" tvg-name="FR|| BEIN SPORT 1 FHD" tvg-logo="" group-title="FREE TO AIR",FR|| BEIN SPORT 1 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9210
-#EXTINF:-1 tvg-ID="BeInSports1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="https://www.bein.net/ar/wp-content/uploads/sites/4/2015/09/4K.png" group-title="FREE TO AIR",|FR| BEIN SPORTS 1 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/85
-#EXTINF:-1 tvg-ID="BeInSports1.fr" tvg-name="|FR| BEIN SPORT 1 HD" tvg-logo="http://manager.ndasat.pro/picons/1_0_1_189D_3F4_1_C00000_0_0_0.png" group-title="FREE TO AIR",|FR| BEIN SPORT 1 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3401
-#EXTINF:-1 tvg-ID="BeInSports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://manager.ndasat.pro/picons/1_0_1_189E_3F4_1_C00000_0_0_0.png" group-title="FREE TO AIR",|FR| BEIN SPORTS 2 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/2432
-#EXTINF:-1 tvg-ID="BeInSports2.fr" tvg-name="FR|| BEIN SPORT 2 FHD" tvg-logo="" group-title="FREE TO AIR",FR|| BEIN SPORT 2 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9211
-#EXTINF:-1 tvg-ID="BeInSports2.fr" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="http://manager.ndasat.pro/picons/beinlow.png" group-title="FREE TO AIR",|FR| BEIN SPORTS 2 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/2
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| BEIN SPORT 2 HD" tvg-logo="http://manager.ndasat.pro/picons/1_0_1_189E_3F4_1_C00000_0_0_0.png" group-title="FREE TO AIR",|FR| BEIN SPORT 2 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3402
-#EXTINF:-1 tvg-ID="BeInSports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://manager.ndasat.pro/picons/1_0_1_18B4_3F4_1_C00000_0_0_0.png" group-title="FREE TO AIR",|FR| BEIN SPORTS 3 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/2433
-#EXTINF:-1 tvg-ID="BeInSports3.fr" tvg-name="FR|| BEIN SPORT 3 FHD" tvg-logo="" group-title="FREE TO AIR",FR|| BEIN SPORT 3 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9212
-#EXTINF:-1 tvg-ID="BeInSports3.fr" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="http://manager.ndasat.pro/picons/1_0_1_18B4_3F4_1_C00000_0_0_0.png" group-title="FREE TO AIR",|FR| BEIN SPORTS 3 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3011
-#EXTINF:-1 tvg-ID="BeInSports3.fr" tvg-name="|FR| BEIN SPORT 3 HD" tvg-logo="" group-title="FREE TO AIR",|FR| BEIN SPORT 3 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9441
-#EXTINF:-1 tvg-ID="BeInSportsMax4.fr" tvg-name="|FR| BEIN MAX 4 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD4.png" group-title="FREE TO AIR",|FR| BEIN MAX 4 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/1209
-#EXTINF:-1 tvg-ID="BeInSportsMax5.fr" tvg-name="|FR| BEIN MAX 5 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD5.png" group-title="FREE TO AIR",|FR| BEIN MAX 5 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/894
-#EXTINF:-1 tvg-ID="BeInSportsMax6.fr" tvg-name="|FR| BEIN MAX 6 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD6.png" group-title="FREE TO AIR",|FR| BEIN MAX 6 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/903
-#EXTINF:-1 tvg-ID="BeInSportsMax7.fr" tvg-name="|FR| BEIN MAX 7 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD7.png" group-title="FREE TO AIR",|FR| BEIN MAX 7 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/902
-#EXTINF:-1 tvg-ID="BeInSportsMax8.fr" tvg-name="|FR| BEIN MAX 8 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD8.png" group-title="FREE TO AIR",|FR| BEIN MAX 8 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/901
-#EXTINF:-1 tvg-ID="BeInSportsMax9.fr" tvg-name="|FR| BEIN MAX 9 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD9.png" group-title="FREE TO AIR",|FR| BEIN MAX 9 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/2680
-#EXTINF:-1 tvg-ID="BeInSportsMax10.fr" tvg-name="|FR| BEIN MAX 10 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD10.png" group-title="FREE TO AIR",|FR| BEIN MAX 10 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/2770
-#EXTINF:-1 tvg-ID="BeInSportsMax4.fr" tvg-name="|FR| BEIN MAX 4 FHD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD4.png" group-title="FREE TO AIR",|FR| BEIN MAX 4 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3424
-#EXTINF:-1 tvg-ID="BeInSportsMax6.fr" tvg-name="|FR| BEIN MAX 6 FHD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD6.png" group-title="FREE TO AIR",|FR| BEIN MAX 6 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3422
-#EXTINF:-1 tvg-ID="BeInSportsMax5.fr" tvg-name="|FR| BEIN MAX 5 FHD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD5.png" group-title="FREE TO AIR",|FR| BEIN MAX 5 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3423
-#EXTINF:-1 tvg-ID="BeInSportsMax7.fr" tvg-name="|FR| BEIN MAX 7 FHD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD7.png" group-title="FREE TO AIR",|FR| BEIN MAX 7 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3421
-#EXTINF:-1 tvg-ID="BeInSportsMax8.fr" tvg-name="|FR| BEIN MAX 8 FHD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD8.png" group-title="FREE TO AIR",|FR| BEIN MAX 8 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3420
-#EXTINF:-1 tvg-ID="BeInSportsMax9.fr" tvg-name="|FR| BEIN MAX 9 FHD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD9.png" group-title="FREE TO AIR",|FR| BEIN MAX 9 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3419
-#EXTINF:-1 tvg-ID="BeInSportsMax10.fr" tvg-name="|FR| BEIN MAX 10 FHD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD10.png" group-title="FREE TO AIR",|FR| BEIN MAX 10 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/3418
 
 #EXTINF:-1 group-title="Movies",MCC
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
@@ -365,130 +333,364 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 
 
 #---------------MovieSportsLOKU------------#
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZONE PRIME DIMANCHE SOIR FHD" tvg-logo="" group-title="BOUQUET TURC",|FR| AMAZONE PRIME DIMANCHE SOIR FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028391
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME MULTIPLEX Full HD" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME MULTIPLEX Full HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028357
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME 1 FHD ( ONLY EVENTS )" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME 1 FHD ( ONLY EVENTS )
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665018219
-#EXTINF:-1 tvg-ID="" tvg-name="(FR)AMAZON PRIME 1" tvg-logo="" group-title="FREE TO AIR",(FR)AMAZON PRIME 1
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028587
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME 1 SD  ( ONLY EVENTS )" tvg-logo="" group-title="BOUQUET TURC",|FR| AMAZON PRIME 1 SD  ( ONLY EVENTS )
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028359
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME VIDEO 1 HD" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME VIDEO 1 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028467
-#EXTINF:-1 tvg-ID="" tvg-name="FR|| AMAZON PRIME 1 HD" tvg-logo="" group-title="FREE TO AIR",FR|| AMAZON PRIME 1 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028258
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME 2 FHD ( ONLY EVENTS )" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME 2 FHD ( ONLY EVENTS )
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028134
-#EXTINF:-1 tvg-ID="" tvg-name="(FR)AMAZON PRIME 2" tvg-logo="" group-title="FREE TO AIR",(FR)AMAZON PRIME 2
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028588
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME VIDEO 2 HD" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME VIDEO 2 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028461
-#EXTINF:-1 tvg-ID="" tvg-name="FR|| AMAZON PRIME 2 HD" tvg-logo="" group-title="FREE TO AIR",FR|| AMAZON PRIME 2 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028259
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME 3 FHD ( ONLY EVENTS )" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME 3 FHD ( ONLY EVENTS )
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028133
-#EXTINF:-1 tvg-ID="" tvg-name="(FR)AMAZON PRIME 3" tvg-logo="" group-title="FREE TO AIR",(FR)AMAZON PRIME 3
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028589
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME VIDEO 3 HD" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME VIDEO 3 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028462
-#EXTINF:-1 tvg-ID="" tvg-name="FR|| AMAZON PRIME 3 HD" tvg-logo="" group-title="FREE TO AIR",FR|| AMAZON PRIME 3 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028260
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME 4 FHD ( ONLY EVENTS )" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME 4 FHD ( ONLY EVENTS )
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028132
-#EXTINF:-1 tvg-ID="" tvg-name="(FR)AMAZON PRIME 4" tvg-logo="" group-title="FREE TO AIR",(FR)AMAZON PRIME 4
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028590
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME VIDEO 4 HD" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME VIDEO 4 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028463
-#EXTINF:-1 tvg-ID="" tvg-name="FR|| AMAZON PRIME 4 HD" tvg-logo="" group-title="FREE TO AIR",FR|| AMAZON PRIME 4 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028261
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME 5 FHD ( ONLY EVENTS )" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME 5 FHD ( ONLY EVENTS )
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028131
-#EXTINF:-1 tvg-ID="" tvg-name="(FR)AMAZON PRIME 5" tvg-logo="" group-title="FREE TO AIR",(FR)AMAZON PRIME 5
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028591
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME VIDEO 5 HD" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME VIDEO 5 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028464
-#EXTINF:-1 tvg-ID="" tvg-name="FR|| AMAZON PRIME 5 HD" tvg-logo="" group-title="FREE TO AIR",FR|| AMAZON PRIME 5 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028262
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME 6 FHD ( ONLY EVENTS )" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME 6 FHD ( ONLY EVENTS )
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028130
-#EXTINF:-1 tvg-ID="" tvg-name="(FR)AMAZON PRIME 6" tvg-logo="" group-title="FREE TO AIR",(FR)AMAZON PRIME 6
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028592
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME VIDEO 6 HD" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME VIDEO 6 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028465
-#EXTINF:-1 tvg-ID="" tvg-name="FR|| AMAZON PRIME 6 HD" tvg-logo="" group-title="FREE TO AIR",FR|| AMAZON PRIME 6 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028263
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME 7 FHD ( ONLY EVENTS )" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME 7 FHD ( ONLY EVENTS )
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028129
-#EXTINF:-1 tvg-ID="" tvg-name="(FR)AMAZON PRIME 7" tvg-logo="" group-title="FREE TO AIR",(FR)AMAZON PRIME 7
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028593
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME VIDEO 7 HD" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME VIDEO 7 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028466
-#EXTINF:-1 tvg-ID="" tvg-name="FR|| AMAZON PRIME 7 HD" tvg-logo="" group-title="FREE TO AIR",FR|| AMAZON PRIME 7 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028264
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME 8 FHD ( ONLY EVENTS )" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME 8 FHD ( ONLY EVENTS )
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028128
-#EXTINF:-1 tvg-ID="" tvg-name="(FR)AMAZON PRIME 8" tvg-logo="" group-title="FREE TO AIR",(FR)AMAZON PRIME 8
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028594
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME VIDEO 8 HD" tvg-logo="" group-title="FREE TO AIR",|FR| AMAZON PRIME VIDEO 8 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028468
-#EXTINF:-1 tvg-ID="" tvg-name="FR|| AMAZON PRIME 8 HD" tvg-logo="" group-title="FREE TO AIR",FR|| AMAZON PRIME 8 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/665028265
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 1 SD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/265011217
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 2 SD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/265011218
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 3 SD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/265011219
-#EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="FR|| RMC SPORT 1 FHD" tvg-logo="" group-title="BOUQUET RMC SPORT",FR|| RMC SPORT 1 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9215
-#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="FR|| RMC SPORT 2 FHD " tvg-logo="" group-title="BOUQUET RMC SPORT",FR|| RMC SPORT 2 FHD 
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9216
-#EXTINF:-1 tvg-ID="6Ter.fr" tvg-name="FR|| RMC SPORT 3 FHD" tvg-logo="" group-title="BOUQUET RMC SPORT",FR|| RMC SPORT 3 FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9217
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 1 HD ACCESS FHD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_access1.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 1 HD ACCESS FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6726
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 2 HD ACCESS FHD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_access2.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 2 HD ACCESS FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6727
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 3 HD ACCESS FHD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_access3.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 3 HD ACCESS FHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6728
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 1 HD  720p" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 1 HD  720p
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6514
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 2 HD  720p" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 2 HD  720p
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6515
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 3 HD  720p" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 3 HD  720p
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6516
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 4 HD  720p" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 4 HD  720p
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6517
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 5 HD  720p" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive5.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT 5 HD  720p
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6518
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 5" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive5.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 5
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/5709
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 6" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive6.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 6
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/5708
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 8" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive8.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 8
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/5706
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 7" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive7.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 7
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/5707
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 9" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive9.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 9
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/5705
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_RMC_Sport_1_UHD.svg/1280px-Logo_RMC_Sport_1_UHD.svg.png" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT UHD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/5710
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 10 HD" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive10.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 10 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6503
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 11 HD" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive11.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 11 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/5704
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 12 HD" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive12.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 12 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/5703
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 13 HD" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive13.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 13 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/5702
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 14 HD" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive14.gif" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 14 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6504
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 15 HD" tvg-logo="https://cdn2.nextinpact.com/images/bd/wide-linked-media/20241.jpg" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 15 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6505
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT LIVE 16 HD" tvg-logo="https://cdn2.nextinpact.com/images/bd/wide-linked-media/20241.jpg" group-title="BOUQUET RMC SPORT",|FR| RMC SPORT LIVE 16 HD
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/6506
+#EXTINF:-1,1 C 2TV muzika
+http://78.58.133.179:28000/play/a01y/index.m3u8
+#EXTINF:-1,1 C BTV 265
+http://78.58.133.179:28000/play/a01i/index.m3u8
+#EXTINF:-1,1 C Delfi.tv
+http://78.58.133.179:28000/play/delfisss/index.m3u8
+#EXTINF:-1,1 C Info TV 265
+http://78.58.133.179:28000/play/a01o/index.m3u8
+#EXTINF:-1,1 C LNK 265
+http://78.58.133.179:28000/play/a01f/index.m3u8
+#EXTINF:-1,1 C LRT + 265
+http://78.58.133.179:28000/play/a01n/index.m3u8
+#EXTINF:-1,1 C LRT + HD 265
+http://78.58.133.179:28000/play/lrtplhd265/index.m3u8
+#EXTINF:-1,1 C LRT 265
+http://78.58.133.179:28000/play/a01m/index.m3u8
+#EXTINF:-1,1 C LRT HD 265
+http://78.58.133.179:28000/play/lrthd265/index.m3u8
+#EXTINF:-1,1 C Lietuvos rytas TV 265
+http://78.58.133.179:28000/play/lrytas265/index.m3u8
+#EXTINF:-1,1 C TV1 265
+http://78.58.133.179:28000/play/a01k/index.m3u8
+#EXTINF:-1,1 C TV3 265
+http://78.58.133.179:28000/play/a01j/index.m3u8
+#EXTINF:-1,1 C TV6 265
+http://78.58.133.179:28000/play/a01h/index.m3u8
+#EXTINF:-1,1 C TV8 265
+http://78.58.133.179:28000/play/a01e/index.m3u8
+#EXTINF:-1,1 E 3 sport 2 HD
+http://78.58.133.179:28000/play/tvplsportplhd/index.m3u8
+#EXTINF:-1,1 E 3 sport 2 HD 265
+http://78.58.133.179:28000/play/ssport2hd265/index.m3u8
+#EXTINF:-1,1 E Balticum TV 265
+http://78.58.133.179:28000/play/egisbalticumtv/index.m3u8
+#EXTINF:-1,1 E Balticum auksinis265
+http://78.58.133.179:28000/play/egisbaltiauksin/index.m3u8
+#EXTINF:-1,1 E Filmzone 265
+http://78.58.133.179:28000/play/filmzonefilmzone264/index.m3u8
+#EXTINF:-1,1 E KidZone
+http://78.58.133.179:28000/play/kidzonelt/index.m3u8
+#EXTINF:-1,1 E LRytas HD 265
+http://78.58.133.179:28000/play/a01p/index.m3u8
+#EXTINF:-1,1 E Sport1
+http://78.58.133.179:28000/play/sport1sport1/index.m3u8
+#EXTINF:-1,1 E TVPlay Sports 265
+http://78.58.133.179:28000/play/tvpl265/index.m3u8
+#EXTINF:-1,1 E TVPlay Sports HD
+http://78.58.133.179:28000/play/vaidvsbhd/index.m3u8
+#EXTINF:-1,1 E TVPlay Sports HD 265
+http://78.58.133.179:28000/play/tvplhd265/index.m3u8
+#EXTINF:-1,1 Egis BTV HD 265
+http://78.58.133.179:28000/play/btvhd265/index.m3u8
+#EXTINF:-1,1 Egis Filmzone+ HD 265
+http://78.58.133.179:28000/play/filmzonehd265/index.m3u8
+#EXTINF:-1,1 Egis LNK HD 265
+http://78.58.133.179:28000/play/lnkhd265/index.m3u8
+#EXTINF:-1,1 Egis REN TV Lietuva
+http://78.58.133.179:28000/play/a01z/index.m3u8
+#EXTINF:-1,1 Egis TV3 HD 265
+http://78.58.133.179:28000/play/tv3hd265/index.m3u8
+#EXTINF:-1,1 Egis TV6 HD 265
+http://78.58.133.179:28000/play/tv6hd265/index.m3u8
+#EXTINF:-1,1 V 3 film HD 265
+http://78.58.133.179:28000/play/3filmhd265/index.m3u8
+#EXTINF:-1,1 V Pingviniukas
+http://78.58.133.179:28000/play/pingviniukas264/index.m3u8
+#EXTINF:-1,1 Vaido Tavo TV HD
+http://78.58.133.179:28000/play/tavotvhd/index.m3u8
+#EXTINF:-1,24Док
+http://78.58.133.179:28000/play/a081/index.m3u8
+#EXTINF:-1,ABTO24
+http://78.58.133.179:28000/play/a099/index.m3u8
+#EXTINF:-1,AMEDIA 1
+http://78.58.133.179:28000/play/a057/index.m3u8
+#EXTINF:-1,AMEDIA 2
+http://78.58.133.179:28000/play/a058/index.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://78.58.133.179:28000/play/a056/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://78.58.133.179:28000/play/a010/index.m3u8
+#EXTINF:-1,Animal Planet
+http://78.58.133.179:28000/play/a100/index.m3u8
+#EXTINF:-1,BBC World News
+http://78.58.133.179:28000/play/a00k/index.m3u8
+#EXTINF:-1,BRIDGE HD
+http://78.58.133.179:28000/play/a036/index.m3u8
+#EXTINF:-1,BRIDGE TV DANCE
+http://78.58.133.179:28000/play/a134/index.m3u8
+#EXTINF:-1,BRIDGE TV Русский Хит
+http://78.58.133.179:28000/play/a00z/index.m3u8
+#EXTINF:-1,Barely legal
+http://78.58.133.179:28000/play/a00l/index.m3u8
+#EXTINF:-1,Boomerang
+http://78.58.133.179:28000/play/a157/index.m3u8
+#EXTINF:-1,CNN International
+http://78.58.133.179:28000/play/ccnn/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://78.58.133.179:28000/play/a155/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://78.58.133.179:28000/play/a105/index.m3u8
+#EXTINF:-1,Discovery Channel HD 265
+http://78.58.133.179:28000/play/a013/index.m3u8
+#EXTINF:-1,Discovery Science
+http://78.58.133.179:28000/play/a208/index.m3u8
+#EXTINF:-1,Euronews
+http://78.58.133.179:28000/play/a165/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://78.58.133.179:28000/play/a126/index.m3u8
+#EXTINF:-1,HD Life
+http://78.58.133.179:28000/play/a020/index.m3u8
+#EXTINF:-1,HDL
+http://78.58.133.179:28000/play/hdlhd/index.m3u8
+#EXTINF:-1,HTB +2
+http://78.58.133.179:28000/play/a176/index.m3u8
+#EXTINF:-1,HTB HD
+http://78.58.133.179:28000/play/a001/index.m3u8
+#EXTINF:-1,Hollywood HD 
+http://78.58.133.179:28000/play/a011/index.m3u8
+#EXTINF:-1,ID Xtra
+http://78.58.133.179:28000/play/a101/index.m3u8
+#EXTINF:-1,MCM Top
+http://78.58.133.179:28000/play/a135/index.m3u8
+#EXTINF:-1,MTV
+http://78.58.133.179:28000/play/a142/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://78.58.133.179:28000/play/a035/index.m3u8
+#EXTINF:-1,MTV Rocks
+http://78.58.133.179:28000/play/a138/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://78.58.133.179:28000/play/mezzosashdvaidukui/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://78.58.133.179:28000/play/a083/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://78.58.133.179:28000/play/a017/index.m3u8
+#EXTINF:-1,National Geographic
+http://78.58.133.179:28000/play/a104/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://78.58.133.179:28000/play/a014/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://78.58.133.179:28000/play/a153/index.m3u8
+#EXTINF:-1,Playboy TV
+http://78.58.133.179:28000/play/a190/index.m3u8
+#EXTINF:-1,RTG HD
+http://78.58.133.179:28000/play/a021/index.m3u8
+#EXTINF:-1,RTG TV
+http://78.58.133.179:28000/play/a090/index.m3u8
+#EXTINF:-1,RU.TV
+http://78.58.133.179:28000/play/a133/index.m3u8
+#EXTINF:-1,Russian extreme TV
+http://78.58.133.179:28000/play/a124/index.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://78.58.133.179:28000/play/a062/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://78.58.133.179:28000/play/a061/index.m3u8
+#EXTINF:-1,TB 1000 Русское кино
+http://78.58.133.179:28000/play/a042/index.m3u8
+#EXTINF:-1,THT HD
+http://78.58.133.179:28000/play/a00s/index.m3u8
+#EXTINF:-1,THT MUSIC
+http://78.58.133.179:28000/play/a129/index.m3u8
+#EXTINF:-1,THT4
+http://78.58.133.179:28000/play/a172/index.m3u8
+#EXTINF:-1,TLC HD
+http://78.58.133.179:28000/play/a022/index.m3u8
+#EXTINF:-1,TV 1000
+http://78.58.133.179:28000/play/a043/index.m3u8
+#EXTINF:-1,TV 1000 Action
+http://78.58.133.179:28000/play/a044/index.m3u8
+#EXTINF:-1,TV 1000 Comedy HD
+http://78.58.133.179:28000/play/a007/index.m3u8
+#EXTINF:-1,TV 1000 Megahit HD
+http://78.58.133.179:28000/play/a005/index.m3u8
+#EXTINF:-1,TV 1000 Premium HD
+http://78.58.133.179:28000/play/a006/index.m3u8
+#EXTINF:-1,TiJi
+http://78.58.133.179:28000/play/a149/index.m3u8
+#EXTINF:-1,Travel Channel
+http://78.58.133.179:28000/play/a095/index.m3u8
+#EXTINF:-1,Travel Channel HD
+http://78.58.133.179:28000/play/a018/index.m3u8
+#EXTINF:-1,Travel+Adventure
+http://78.58.133.179:28000/play/a094/index.m3u8
+#EXTINF:-1,VH1 Classic
+http://78.58.133.179:28000/play/a141/index.m3u8
+#EXTINF:-1,VH1 European
+http://78.58.133.179:28000/play/a140/index.m3u8
+#EXTINF:-1,Viasat Explorer
+http://78.58.133.179:28000/play/a087/index.m3u8
+#EXTINF:-1,Viasat History
+http://78.58.133.179:28000/play/a086/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://78.58.133.179:28000/play/a00m/index.m3u8
+#EXTINF:-1,Viasat Nature/History HD
+http://78.58.133.179:28000/play/a015/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://78.58.133.179:28000/play/a125/index.m3u8
+#EXTINF:-1,Авто Плюс
+http://78.58.133.179:28000/play/a106/index.m3u8
+#EXTINF:-1,БОБЁР
+http://78.58.133.179:28000/play/a102/index.m3u8
+#EXTINF:-1,БОКС ТВ
+http://78.58.133.179:28000/play/a128/index.m3u8
+#EXTINF:-1,ДОМАШНИЕ ЖИВОТНЫЕ
+http://78.58.133.179:28000/play/a082/index.m3u8
+#EXTINF:-1,Диалоги о рыбалке
+http://78.58.133.179:28000/play/a01a/index.m3u8
+#EXTINF:-1,Дикий
+http://78.58.133.179:28000/play/a00y/index.m3u8
+#EXTINF:-1,Дом Кино
+http://78.58.133.179:28000/play/a064/index.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://78.58.133.179:28000/play/a009/index.m3u8
+#EXTINF:-1,Домашний
+http://78.58.133.179:28000/play/a209/index.m3u8
+#EXTINF:-1,ЕвроКино
+http://78.58.133.179:28000/play/a049/index.m3u8
+#EXTINF:-1,Европа Плюс ТВ
+http://78.58.133.179:28000/play/a145/index.m3u8
+#EXTINF:-1,Звезда
+http://78.58.133.179:28000/play/a046/index.m3u8
+#EXTINF:-1,Звезда +2
+http://78.58.133.179:28000/play/a00r/index.m3u8
+#EXTINF:-1,КИНО ТВ
+http://78.58.133.179:28000/play/a211/index.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://78.58.133.179:28000/play/a074/index.m3u8
+#EXTINF:-1,КИНОМИКС
+http://78.58.133.179:28000/play/a070/index.m3u8
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
+http://78.58.133.179:28000/play/a004/index.m3u8
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://78.58.133.179:28000/play/a068/index.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ
+http://78.58.133.179:28000/play/a067/index.m3u8
+#EXTINF:-1,КИНОУЖАС
+http://78.58.133.179:28000/play/a00v/index.m3u8
+#EXTINF:-1,КИНОХИТ
+http://78.58.133.179:28000/play/a075/index.m3u8
+#EXTINF:-1,Канал Disney
+http://78.58.133.179:28000/play/a147/index.m3u8
+#EXTINF:-1,Карусель
+http://78.58.133.179:28000/play/a158/index.m3u8
+#EXTINF:-1,Комедия
+http://78.58.133.179:28000/play/a203/index.m3u8
+#EXTINF:-1,Любимое Кино
+http://78.58.133.179:28000/play/a060/index.m3u8
+#EXTINF:-1,МАТЧ ПРЕМЬЕР
+http://78.58.133.179:28000/play/a00j/index.m3u8
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
+http://78.58.133.179:28000/play/a023/index.m3u8
+#EXTINF:-1,МАТЧ!
+http://78.58.133.179:28000/play/a01d/index.m3u8
+#EXTINF:-1,МАТЧ! HD
+http://78.58.133.179:28000/play/a028/index.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://78.58.133.179:28000/play/a01g/index.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://78.58.133.179:28000/play/a030/index.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://78.58.133.179:28000/play/a114/index.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://78.58.133.179:28000/play/a00w/index.m3u8
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://78.58.133.179:28000/play/a029/index.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://78.58.133.179:28000/play/a119/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://78.58.133.179:28000/play/a117/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://78.58.133.179:28000/play/a024/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://78.58.133.179:28000/play/a111/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://78.58.133.179:28000/play/a025/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://78.58.133.179:28000/play/a118/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://78.58.133.179:28000/play/a026/index.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://78.58.133.179:28000/play/a071/index.m3u8
+#EXTINF:-1,МУЗ
+http://78.58.133.179:28000/play/a130/index.m3u8
+#EXTINF:-1,Мир Баскетбола
+http://78.58.133.179:28000/play/a00f/index.m3u8
+#EXTINF:-1,Морской
+http://78.58.133.179:28000/play/a109/index.m3u8
+#EXTINF:-1,Москва 24
+http://78.58.133.179:28000/play/a180/index.m3u8
+#EXTINF:-1,Мосфильм. Золотая Коллекция
+http://78.58.133.179:28000/play/a027/index.m3u8
+#EXTINF:-1,Моя Планета
+http://78.58.133.179:28000/play/a097/index.m3u8
+#EXTINF:-1,Музыка Первого
+http://78.58.133.179:28000/play/a139/index.m3u8
+#EXTINF:-1,НАШЕ НОВОЕ КИНО
+http://78.58.133.179:28000/play/a073/index.m3u8
+#EXTINF:-1,НСТ
+http://78.58.133.179:28000/play/a065/index.m3u8
+#EXTINF:-1,НТВ
+http://78.58.133.179:28000/play/a163/index.m3u8
+#EXTINF:-1,Ностальгия
+http://78.58.133.179:28000/play/a184/index.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://78.58.133.179:28000/play/a01r/index.m3u8
+#EXTINF:-1,ПОБЕДА
+http://78.58.133.179:28000/play/a01u/index.m3u8
+#EXTINF:-1,ПЯТНИЦА
+http://78.58.133.179:28000/play/a01v/index.m3u8
+#EXTINF:-1,Первый канал
+http://78.58.133.179:28000/play/a207/index.m3u8
+#EXTINF:-1,Первый канал +2
+http://78.58.133.179:28000/play/a00h/index.m3u8
+#EXTINF:-1,Первый канал HD 265
+http://78.58.133.179:28000/play/a002/index.m3u8
+#EXTINF:-1,Продвижение
+http://78.58.133.179:28000/play/a00x/index.m3u8
+#EXTINF:-1,РЕН ТВ
+http://78.58.133.179:28000/play/a01w/index.m3u8
+#EXTINF:-1,РЕН ТВ +2
+http://78.58.133.179:28000/play/a00o/index.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+http://78.58.133.179:28000/play/a069/index.m3u8
+#EXTINF:-1,Радио Шансон
+http://78.58.133.179:28000/play/a019/index.m3u8
+#EXTINF:-1,Россия 1
+http://78.58.133.179:28000/play/a01x/index.m3u8
+#EXTINF:-1,Россия 1  +2
+http://78.58.133.179:28000/play/russiaa00l/index.m3u8
+#EXTINF:-1,Россия HD
+http://78.58.133.179:28000/play/a003/index.m3u8
+#EXTINF:-1,Русская ночь
+http://78.58.133.179:28000/play/a066/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://78.58.133.179:28000/play/a050/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://78.58.133.179:28000/play/a078/index.m3u8
+#EXTINF:-1,Русский детектив
+http://78.58.133.179:28000/play/a01t/index.m3u8
+#EXTINF:-1,Русский роман
+http://78.58.133.179:28000/play/a077/index.m3u8
+#EXTINF:-1,СТС
+http://78.58.133.179:28000/play/a206/index.m3u8
+#EXTINF:-1,Сарафан
+http://78.58.133.179:28000/play/a162/index.m3u8
+#EXTINF:-1,Совершенно секретно
+http://78.58.133.179:28000/play/a098/index.m3u8
+#EXTINF:-1,ТВЦ
+http://78.58.133.179:28000/play/a179/index.m3u8
+#EXTINF:-1,ТВЦ +2
+http://78.58.133.179:28000/play/a170/index.m3u8
+#EXTINF:-1,ТНТ
+http://78.58.133.179:28000/play/a164/index.m3u8
+#EXTINF:-1,ТРО
+http://78.58.133.179:28000/play/a093/index.m3u8
+#EXTINF:-1,Телеканал Да Винчи
+http://78.58.133.179:28000/play/a089/index.m3u8
+#EXTINF:-1,Точка отрыва
+http://78.58.133.179:28000/play/a084/index.m3u8
 
 #------------------#
 
