@@ -22,6 +22,9 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-digdaya-tv-8293-300x225.jpg" group-title="FREE TO AIR",DIGDAYA TV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="FREE TO AIR",TVRI SPORT HD
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="FREE TO AIR", ELSHINTA TV
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 
