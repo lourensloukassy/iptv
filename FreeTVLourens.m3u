@@ -64,9 +64,6 @@ http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/
 #EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Movies", Sony ONE 
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
 
-#EXTINF:-1 group-title="Movies",eGG TV
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
- 
 #EXTINF:-1 group-title="Movies",Dunia Games TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
@@ -118,35 +115,189 @@ https://v6.siar.us/nusantaratv/live/shareExt_chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YPShjv/Backup-of-Bandung-TV.png" group-title="FREE TO AIR",BANDUNGTV [BANDUNG]
 http://202.150.153.254/bandungtv720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-sX6OqO79te8/WXsMUTk8QqI/AAAAAAAAHbs/XzDp3-8sTvgkAQpwChG_MhnHX1eP6NeBQCK4BGAYYCw/s269/balung%2Btv.png" group-title="FREE TO AIR",BETV [BENGKULU]
-http://122.248.43.138:1935/ch3/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/709611530602418176/0nN_0pC4.jpg" group-title="FREE TO AIR",BTV [BALIKPAPAN]
-http://122.248.43.138:1935/ch10/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://radartv.co.id/wp-content/uploads/2019/11/logo-radartv-544x180.png" group-title="FREE TO AIR",RADAR TV [LAMPUNG]
-http://122.248.43.138:1935/ch11/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.radarcirebon.com/wp-content/uploads/2018/08/logo-74.png" group-title="FREE TO AIR",RCTV [CIREBON]
-http://122.248.43.138:1935/ch9/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png" group-title="FREE TO AIR",PONTV [PONTIANAK]
-http://122.248.43.138:1935/ch15/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QM9dFVzg/tvku.jpg" group-title="FREE TO AIR",TVKU [SEMARANG]
-http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ViW8Tx9kwk0/XBbiYrAN0GI/AAAAAAAAH5A/7uR_msPcoo85ioVXwYXPbl0NjDxtJfrNACLcBGAs/s1600/Sultra%2BTV%2Blive%2Bstreaming%2Bonline.png" group-title="FREE TO AIR",SULTRATV [SULAWESI TENGGARA]
-http://122.248.43.138:1935/ch20/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-jambi-tv-3598-300x225.jpg" group-title="FREE TO AIR",JAMBITV [JAMBI]
-http://122.248.43.138:1935/ch23/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1094px-JTV_%282012%29.svg.png" group-title="FREE TO AIR",JTV [SURABAYA]
-http://122.248.43.138:1935/ch2/myStream/live.m3u8
-
 #EXTINF:-1 tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="FREE TO AIR", JITV [D.I YOGYAKARTA]
 http://202.169.224.76:1935/tv/jitv/chunklist_shareExt.m3u8
+
+
+#EXTINF:-1 group-title="FREE TO AIR",AMC HD
+http://86.126.115.112:8000/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",AXN
+http://86.126.115.112:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",AXN Black
+http://86.126.115.112:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",AXN HD
+http://86.126.115.112:8000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Antena 1 HD
+http://86.126.115.112:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Antena 3 HD
+http://86.126.115.112:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",B1
+http://86.126.115.112:8000/play/a0ab/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Bollywood TV
+http://86.126.115.112:8000/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Boomerang
+http://86.126.115.112:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Chill FM
+http://86.126.115.112:8000/play/a0al/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Cinemax
+http://86.126.115.112:8000/play/a0az/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Cinemax 2
+http://86.126.115.112:8000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Comedy Central
+http://86.126.115.112:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",ComedyEst
+http://86.126.115.112:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Crime & Investigations
+http://86.126.115.112:8000/play/a09i/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",DIGI 24
+http://86.126.115.112:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",DIGI Life
+http://86.126.115.112:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",DIGI Sport 4 HD
+http://86.126.115.112:8000/play/a0a1/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",DaVinci
+http://86.126.115.112:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",DaVinci
+http://86.126.115.112:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Dance FM
+http://86.126.115.112:8000/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Digi FM
+http://86.126.115.112:8000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Discovery HD
+http://86.126.115.112:8000/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Discovery Ro
+http://86.126.115.112:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Diva Universal
+http://86.126.115.112:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Docubox
+http://86.126.115.112:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",E! Entertainment
+http://86.126.115.112:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Etno
+http://86.126.115.112:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Europa FM 
+http://86.126.115.112:8000/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Fashion TV
+http://86.126.115.112:8000/play/a099/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Fightbox
+http://86.126.115.112:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Film Now
+http://86.126.115.112:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",FilmBox Basic
+http://86.126.115.112:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",FilmBox Premium
+http://86.126.115.112:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Fishing and Hunting
+http://86.126.115.112:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",HBO 2
+http://86.126.115.112:8000/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",HBO 3
+http://86.126.115.112:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",HBO Romania
+http://86.126.115.112:8000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",HBO2 HD
+http://86.126.115.112:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Inedit TV
+http://86.126.115.112:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",JimJam
+http://86.126.115.112:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Kanal D
+http://86.126.115.112:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Kiss FM
+http://86.126.115.112:8000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Kiss TV
+http://86.126.115.112:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",MTV Romania
+http://86.126.115.112:8000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Megamax 
+http://86.126.115.112:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Mooz Ro
+http://86.126.115.112:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Nasul TV
+http://86.126.115.112:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Nat Geo
+http://86.126.115.112:8000/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Nat Geo People
+http://86.126.115.112:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Nat Geo Wild
+http://86.126.115.112:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Nick Jr
+http://86.126.115.112:8000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",PRIMA TV
+http://86.126.115.112:8000/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",PRO 2
+http://86.126.115.112:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",PRO CINEMA
+http://86.126.115.112:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",PRO GOLD
+http://86.126.115.112:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",PRO TV 
+http://86.126.115.112:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",PRO TV HD
+http://86.126.115.112:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",PRO X
+http://86.126.115.112:8000/play/a088/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Paramount
+http://86.126.115.112:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Penthouse HD
+http://86.126.115.112:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Penthouse Passion
+http://86.126.115.112:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Penthouse Quickies
+http://86.126.115.112:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Pink'O
+http://86.126.115.112:8000/play/a098/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Playboy TV
+http://86.126.115.112:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",RTL Television
+http://86.126.115.112:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Radio ZU
+http://86.126.115.112:8000/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Realitatea Plus
+http://86.126.115.112:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Romania TV
+http://86.126.115.112:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Sport Extra
+http://86.126.115.112:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",SuperOne
+http://86.126.115.112:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",TLC
+http://86.126.115.112:8000/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",TVR 2
+http://86.126.115.112:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",TVR 3
+http://86.126.115.112:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",TVR 3
+http://86.126.115.112:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",TVR2 HD
+http://86.126.115.112:8000/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Taraf
+http://86.126.115.112:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Taraf TV
+http://86.126.115.112:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Taraf TV
+http://86.126.115.112:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 1 HD
+http://86.126.115.112:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 2
+http://86.126.115.112:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 2 HD
+http://86.126.115.112:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 3 HD
+http://86.126.115.112:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 4 HD
+http://86.126.115.112:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Trinitas TV
+http://86.126.115.112:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Viasat Explore
+http://86.126.115.112:8000/play/a09g/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Virgin Radio
+http://86.126.115.112:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",Warner TV
+http://86.126.115.112:8000/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR",iConcerts HD
+http://86.126.115.112:8000/play/a07a/index.m3u8
+
 
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
@@ -175,20 +326,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizlifestyle.jpg",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
 
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO
-https://raw.githubusercontent.com/apistech/IPTV/master/hbo.m3u8
-
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family
-https://raw.githubusercontent.com/apistech/IPTV/master/hbofamily.m3u8
-
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits
-https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
-
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature
-https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
-
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",CineMax
-https://raw.githubusercontent.com/apistech/IPTV/master/max.m3u8
 
 #EXTINF:-1 group-title="MAXSTREAM",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
