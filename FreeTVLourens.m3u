@@ -82,6 +82,210 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
+
+
+#EXTINF:-1,AXN
+http://106.246.92.3:9981/stream/channelid/32?ticket=8A05327493A4D924A09574B1EEA50B1604D43356
+#EXTINF:-1,BTN불교TV
+http://106.246.92.3:9981/stream/channelid/69?ticket=9EB68181AA6A851B6585FD55820A5CCC0BD974C6
+#EXTINF:-1,CBS
+http://106.246.92.3:9981/stream/channelid/73?ticket=8410F096FFC1CC185C229284D24F99261B3FF285
+#EXTINF:-1,CJ온스타일
+http://106.246.92.3:9981/stream/channelid/27?ticket=6887FA2DCE30A018D2E2412CDC2622D3EC6E902B
+#EXTINF:-1,CJ온스타일+
+http://106.246.92.3:9981/stream/channelid/89?ticket=71DAE817777B7625FFCAB7ECE375E60B575DBA0A
+#EXTINF:-1,CMC TV
+http://106.246.92.3:9981/stream/channelid/96?ticket=F7B2E6D3B0A089915C9A859A72F2A0C84368351E
+#EXTINF:-1,CNTV
+http://106.246.92.3:9981/stream/channelid/94?ticket=1528CDD3AAE57C1A58E5282A6DB8DEE9C7C6D333
+#EXTINF:-1,CTS
+http://106.246.92.3:9981/stream/channelid/72?ticket=6E9DA25B10FCAA17C9987D6E7B0B1DF13A57C1A1
+#EXTINF:-1,EBS Digital
+http://106.246.92.3:9981/stream/channelid/18?ticket=8F309E2432193811606F573E5F98FF19CC24417F
+#EXTINF:-1,EBS Digital 
+http://106.246.92.3:9981/stream/channelid/19?ticket=6DB158CDA7F4E643ADD8FBDE1641DCD70B50D841
+#EXTINF:-1,EBS플러스1
+http://106.246.92.3:9981/stream/channelid/87?ticket=9EF14173C8EC7618C9A376841288506A0CC259A9
+#EXTINF:-1,EBS플러스2
+http://106.246.92.3:9981/stream/channelid/88?ticket=766D856CADDB84C72AF84E701EF3178F38DC0D20
+#EXTINF:-1,EDGE TV
+http://106.246.92.3:9981/stream/channelid/67?ticket=60A895D2D10934F4C858932D41784EDD0B3E571C
+#EXTINF:-1,ETN연예
+http://106.246.92.3:9981/stream/channelid/100?ticket=6ECFBB9DBDFC0FEE1AD3F3E358AEF94374D5D9F0
+#EXTINF:-1,E채널
+http://106.246.92.3:9981/stream/channelid/43?ticket=00495E93209490C64D493F0686EA63CE708E751A
+#EXTINF:-1,FOX채널
+http://106.246.92.3:9981/stream/channelid/55?ticket=7B11D02EEFB299B66F474A9B106EE684946F0716
+#EXTINF:-1,FSTV
+http://106.246.92.3:9981/stream/channelid/12?ticket=FE89154E0422577028C28870F47F4C0FFE77C231
+#EXTINF:-1,FTV
+http://106.246.92.3:9981/stream/channelid/58?ticket=421447ED314FFFE06DF435970C54800468EFE788
+#EXTINF:-1,FUN TV
+http://106.246.92.3:9981/stream/channelid/76?ticket=188733E029BCB12C697D3371AC46802660564258
+#EXTINF:-1,GS Shop
+http://106.246.92.3:9981/stream/channelid/30?ticket=CE5C40708B3A915837138A571855B80E8C29A971
+#EXTINF:-1,GS마이샵
+http://106.246.92.3:9981/stream/channelid/68?ticket=FA23FE92EED1DD63A22DACBA69E984B6D81A20CF
+#EXTINF:-1,JTBC
+http://106.246.92.3:9981/stream/channelid/25?ticket=5A19CBA1D0118E46A5517EB4E6818254A0C3FF21
+#EXTINF:-1,JTBC2
+http://106.246.92.3:9981/stream/channelid/77?ticket=88DB627944793111A2609CB685CD0F056F35F59F
+#EXTINF:-1,JTBC3
+http://106.246.92.3:9981/stream/channelid/50?ticket=CF17F7A05391339AFDA8DDE3CFC2EC0CC114563F
+#EXTINF:-1,JTBC4
+http://106.246.92.3:9981/stream/channelid/51?ticket=60FA06634C859B718E36EE8999F759940435495B
+#EXTINF:-1,KBS JOY
+http://106.246.92.3:9981/stream/channelid/64?ticket=6D1D174E555E8D250C173E5A265E2900FA62F515
+#EXTINF:-1,KBSN스포츠
+http://106.246.92.3:9981/stream/channelid/90?ticket=3B54DB17F1BBB2D667CF40B74F9187B29A416E80
+#EXTINF:-1,KBS드라마
+http://106.246.92.3:9981/stream/channelid/78?ticket=04A768E4ED32EA259B3369005F8DAF1F1FE82D20
+#EXTINF:-1,KOREA NEW NETWORK
+http://106.246.92.3:9981/stream/channelid/20?ticket=50B58A64F55B6FA38D7D7643CA18DE33CA14CC1D
+#EXTINF:-1,KTV
+http://106.246.92.3:9981/stream/channelid/84?ticket=74900E4EE8AAD63BE1889B5444F1CBA4D7CB6F2C
+#EXTINF:-1,K쇼핑
+http://106.246.92.3:9981/stream/channelid/31?ticket=2A4441C364FF719DFAEE94FDBB0C3CD33F08302B
+#EXTINF:-1,M.net
+http://106.246.92.3:9981/stream/channelid/47?ticket=5938FF9B6E6CFAC438051149D712019A3D2FFA7C
+#EXTINF:-1,MBC DTV
+http://106.246.92.3:9981/stream/channelid/23?ticket=F8556A7FE6268AF446B0E14637ED8E711B1DC5EA
+#EXTINF:-1,MBC Eve
+http://106.246.92.3:9981/stream/channelid/91?ticket=2DF3A890AC66A65A1BBAA97568E9F75C892FEAA4
+#EXTINF:-1,MBC드라마넷
+http://106.246.92.3:9981/stream/channelid/24?ticket=FE88DDA33BE66FE11119394E039707C26C8393C1
+#EXTINF:-1,MBC스포츠+
+http://106.246.92.3:9981/stream/channelid/57?ticket=AB71C3E0470EC18D83CE0589982B223CCD1E575F
+#EXTINF:-1,MBN
+http://106.246.92.3:9981/stream/channelid/34?ticket=06B2DD47286273F85D675878335326C634967E45
+#EXTINF:-1,Mplex
+http://106.246.92.3:9981/stream/channelid/52?ticket=B0093CCCF415B388F16BB3BDBC593D073E73EE3F
+#EXTINF:-1,NHK프리미엄
+http://106.246.92.3:9981/stream/channelid/61?ticket=8A05C2493863C9B7C3226E7A3A224C1D0D3FCEF5
+#EXTINF:-1,NQQ
+http://106.246.92.3:9981/stream/channelid/56?ticket=FB064AA70197C7422FF64125826498B5DABFDE0E
+#EXTINF:-1,NS샵플러스
+http://106.246.92.3:9981/stream/channelid/71?ticket=586D402CCA90FA4276437E3EB8DD1371A31AF592
+#EXTINF:-1,NS홈쇼핑
+http://106.246.92.3:9981/stream/channelid/5?ticket=0B9D409E08F3E1FEF24D05DE40E96C69BEAE91A4
+#EXTINF:-1,OCN
+http://106.246.92.3:9981/stream/channelid/38?ticket=8B9D4938FA5C78F2B152F3243CBF5DA14890E8DA
+#EXTINF:-1,OCN무비즈
+http://106.246.92.3:9981/stream/channelid/39?ticket=5559CF78F5C3A3F126A7A8D267F845102B867CC6
+#EXTINF:-1,OCN스릴즈
+http://106.246.92.3:9981/stream/channelid/49?ticket=67806599AC2723F32DDCFA72331912AED5A06648
+#EXTINF:-1,ONCE
+http://106.246.92.3:9981/stream/channelid/10?ticket=DC89220248527657D4B514849BEE53E344A1CE18
+#EXTINF:-1,ONT
+http://106.246.92.3:9981/stream/channelid/14?ticket=9B2ACED9DAA23356FABD7A4F071664D3064C2DA5
+#EXTINF:-1,OUN
+http://106.246.92.3:9981/stream/channelid/3?ticket=2E867B991D8B4FC9BCA136459033A270BC099EE7
+#EXTINF:-1,OtvN
+http://106.246.92.3:9981/stream/channelid/9?ticket=6B6B93DEBD9E79CF1F32A8AE28B8BF0033A13A17
+#EXTINF:-1,SBS Biz
+http://106.246.92.3:9981/stream/channelid/65?ticket=BB468F84DCAB7E811686D5DC29C054D780CF3485
+#EXTINF:-1,SBS스포츠
+http://106.246.92.3:9981/stream/channelid/46?ticket=D8C87EE94B2236DFD8B44D84565B74DBF6EC5945
+#EXTINF:-1,SBS플러스
+http://106.246.92.3:9981/stream/channelid/63?ticket=276FF5D121961840762657698B2F795442542FE8
+#EXTINF:-1,SK스토아
+http://106.246.92.3:9981/stream/channelid/15?ticket=BEDEB9771A5496BD000837048EE51698D4910BB0
+#EXTINF:-1,SPOTV
+http://106.246.92.3:9981/stream/channelid/16?ticket=F703C95DE688132E5CCAE6F04E76271C511C136E
+#EXTINF:-1,SPOTV2
+http://106.246.92.3:9981/stream/channelid/17?ticket=E5A4CBF2961469B19498E693A3113582B8408090
+#EXTINF:-1,TV조선
+http://106.246.92.3:9981/stream/channelid/36?ticket=F8C18F56F0155FFEB6BB3087F6114DE9673E3398
+#EXTINF:-1,W쇼핑
+http://106.246.92.3:9981/stream/channelid/33?ticket=2CFFE9625A02B0D5166720639D1F9BA97D140948
+#EXTINF:-1,XTM
+http://106.246.92.3:9981/stream/channelid/53?ticket=5E2E04BCC0BDF86245E7CEECF1D7941190F83242
+#EXTINF:-1,YTN
+http://106.246.92.3:9981/stream/channelid/44?ticket=5557B9C1177602320F12D698654013CFD4E4D5E1
+#EXTINF:-1,tvN
+http://106.246.92.3:9981/stream/channelid/35?ticket=0D2265CECB91955B750EBF70B76863C9D2B851A2
+#EXTINF:-1,경남방송
+http://106.246.92.3:9981/stream/channelid/45?ticket=403E37AB5ADCEA3ECB0CAB782B102E168B328D4C
+#EXTINF:-1,공영쇼핑
+http://106.246.92.3:9981/stream/channelid/4?ticket=28B4FBE4B92C06C729A6F09CE49676E12D1E1D35
+#EXTINF:-1,국회TV
+http://106.246.92.3:9981/stream/channelid/41?ticket=D3A420760E8F1B8F5DE4D82E1E9AE57A5A4D40CF
+#EXTINF:-1,다큐원
+http://106.246.92.3:9981/stream/channelid/99?ticket=D018985A55A6CA496EF2737851D360444E3F7076
+#EXTINF:-1,더드라마
+http://106.246.92.3:9981/stream/channelid/8?ticket=7627A38BD7550280CAFC721ED9C2A3D70E6DBB51
+#EXTINF:-1,더라이프
+http://106.246.92.3:9981/stream/channelid/59?ticket=F26341418AEA1D6FB1221EB3EBB6CAF9FB399E1E
+#EXTINF:-1,드라마큐브
+http://106.246.92.3:9981/stream/channelid/82?ticket=FC2375D49A13A4E9A9A79F7285C35FC560593546
+#EXTINF:-1,드라맥스
+http://106.246.92.3:9981/stream/channelid/1?ticket=1F88426F14682BB876CCECE5C0328D5CA8E52151
+#EXTINF:-1,디스커버리
+http://106.246.92.3:9981/stream/channelid/60?ticket=FB9B3864EC5CB637DE57334F7E876D1B96CC7B24
+#EXTINF:-1,롯데ONE T
+http://106.246.92.3:9981/stream/channelid/86?ticket=7FD9FE16556A36AF0DB0B205B5123A53BDB6D1AC
+#EXTINF:-1,롯데홈쇼핑
+http://106.246.92.3:9981/stream/channelid/26?ticket=218F9E57CF765A0A826C8EB02410FEB492ACB169
+#EXTINF:-1,복지TV
+http://106.246.92.3:9981/stream/channelid/80?ticket=D031AE827539524D7B926912B0C661136F4E4CE4
+#EXTINF:-1,뷰
+http://106.246.92.3:9981/stream/channelid/66?ticket=E761D695C205F73F9E99D8C7A7F289AA5B220E8A
+#EXTINF:-1,사이언스TV
+http://106.246.92.3:9981/stream/channelid/95?ticket=3ED97C24834AD7B7D23F4B930459A64CF02EB4B2
+#EXTINF:-1,상생TV
+http://106.246.92.3:9981/stream/channelid/13?ticket=A267810192D2C353E24A23E8562B242A04C05909
+#EXTINF:-1,소상공인방송
+http://106.246.92.3:9981/stream/channelid/92?ticket=C3AF1C42A92956D0D444255874768DF63F0ED850
+#EXTINF:-1,쇼핑엔T
+http://106.246.92.3:9981/stream/channelid/28?ticket=0012250C513C49F0C351CB038E366445BC3FF17E
+#EXTINF:-1,스카이드라마
+http://106.246.92.3:9981/stream/channelid/98?ticket=F2BDD73ED261881BA0029D201D0D303829224EE4
+#EXTINF:-1,스카이스포츠
+http://106.246.92.3:9981/stream/channelid/93?ticket=3B40339AF34FC91B9D4329449FA106F78C8BF44A
+#EXTINF:-1,스크린
+http://106.246.92.3:9981/stream/channelid/54?ticket=7C2C3BAFCE20D199C9FE111CFCBF3DF0D7F335D3
+#EXTINF:-1,신세계쇼핑
+http://106.246.92.3:9981/stream/channelid/74?ticket=68DF4EE178518FA5ADFA02F4A09FB8431427CB6B
+#EXTINF:-1,아이넷
+http://106.246.92.3:9981/stream/channelid/62?ticket=56B4906C003500A0B84B73711EFC89E670EF6AEC
+#EXTINF:-1,연합뉴스TV
+http://106.246.92.3:9981/stream/channelid/40?ticket=3B649880422494E60B6572099582C950B2A2EB29
+#EXTINF:-1,온스타일
+http://106.246.92.3:9981/stream/channelid/7?ticket=165E7E6D71CCD8E60A18AF5EE3F9678B11EF922E
+#EXTINF:-1,올리브
+http://106.246.92.3:9981/stream/channelid/42?ticket=C8065A7E4F336B1DDCB3592B6708B38E2E5A50E7
+#EXTINF:-1,이벤트TV
+http://106.246.92.3:9981/stream/channelid/11?ticket=8883FFDA87598F3A27BC41760DEACAE14C3E0CC9
+#EXTINF:-1,재능방송
+http://106.246.92.3:9981/stream/channelid/75?ticket=FA051D1B824B34A466B5660DCD4BB88F12DDA403
+#EXTINF:-1,창원 KBS1
+http://106.246.92.3:9981/stream/channelid/22?ticket=D9754F28AC8945569FA5A7FE91186F75828D8137
+#EXTINF:-1,창원 KBS2
+http://106.246.92.3:9981/stream/channelid/21?ticket=991D3F3CA1AAABF7EE8F997FFA64104BAF2EA544
+#EXTINF:-1,채널 A
+http://106.246.92.3:9981/stream/channelid/37?ticket=705077F4DB4C8A073862FF9D840C803F08D86F2C
+#EXTINF:-1,채널차이나
+http://106.246.92.3:9981/stream/channelid/79?ticket=B4B70D54D6F4D4BB3047A546D83F427E7A59515A
+#EXTINF:-1,채널칭
+http://106.246.92.3:9981/stream/channelid/81?ticket=06D95F787C1946EE2288D78532A4C32979CC9593
+#EXTINF:-1,챔프
+http://106.246.92.3:9981/stream/channelid/48?ticket=08406ECE8788CF0F9BFC44F6C3B69C6037611B51
+#EXTINF:-1,코미디TV
+http://106.246.92.3:9981/stream/channelid/2?ticket=FBC9D3A7834934DF5D2A918965F08045859A22B7
+#EXTINF:-1,평화방송
+http://106.246.92.3:9981/stream/channelid/70?ticket=4AB8A0240561A466F905E1E420C9FA975F445866
+#EXTINF:-1,하이라이트TV
+http://106.246.92.3:9981/stream/channelid/97?ticket=9A25E1E1EABEBE7C706DD91103BFB44E2C2A0F8B
+#EXTINF:-1,한국경제TV
+http://106.246.92.3:9981/stream/channelid/85?ticket=D6C435D5952BD628976E730916D62F816F9C650C
+#EXTINF:-1,현대홈쇼핑
+http://106.246.92.3:9981/stream/channelid/6?ticket=35DD37E63FA63B92BD2F93D971C22F0AFBB9535A
+#EXTINF:-1,현대홈쇼핑+샵
+http://106.246.92.3:9981/stream/channelid/83?ticket=63085457CE15B7EF1863CBF02503D3776E6182CB
+#EXTINF:-1,홈앤쇼핑
+http://106.246.92.3:9981/stream/channelid/29?ticket=5C1287FC9A5972C0CBD25817CA1E4F31A3D158A4
+
+
 #EXTINF:-1 group-title="Knowledge",DIGIONE MAXstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
@@ -117,187 +321,6 @@ http://202.150.153.254/bandungtv720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="FREE TO AIR", JITV [D.I YOGYAKARTA]
 http://202.169.224.76:1935/tv/jitv/chunklist_shareExt.m3u8
-
-
-#EXTINF:-1 group-title="FREE TO AIR",AMC HD
-http://86.126.115.112:8000/play/a0bs/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",AXN
-http://86.126.115.112:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",AXN Black
-http://86.126.115.112:8000/play/a07w/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",AXN HD
-http://86.126.115.112:8000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Antena 1 HD
-http://86.126.115.112:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Antena 3 HD
-http://86.126.115.112:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",B1
-http://86.126.115.112:8000/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Bollywood TV
-http://86.126.115.112:8000/play/a0ag/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Boomerang
-http://86.126.115.112:8000/play/a09s/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Chill FM
-http://86.126.115.112:8000/play/a0al/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Cinemax
-http://86.126.115.112:8000/play/a0az/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Cinemax 2
-http://86.126.115.112:8000/play/a0a8/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Comedy Central
-http://86.126.115.112:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",ComedyEst
-http://86.126.115.112:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Crime & Investigations
-http://86.126.115.112:8000/play/a09i/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",DIGI 24
-http://86.126.115.112:8000/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",DIGI Life
-http://86.126.115.112:8000/play/a0af/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",DIGI Sport 4 HD
-http://86.126.115.112:8000/play/a0a1/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",DaVinci
-http://86.126.115.112:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",DaVinci
-http://86.126.115.112:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Dance FM
-http://86.126.115.112:8000/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Digi FM
-http://86.126.115.112:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Discovery HD
-http://86.126.115.112:8000/play/a0bq/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Discovery Ro
-http://86.126.115.112:8000/play/a0a2/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Diva Universal
-http://86.126.115.112:8000/play/a09r/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Docubox
-http://86.126.115.112:8000/play/a09b/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",E! Entertainment
-http://86.126.115.112:8000/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Etno
-http://86.126.115.112:8000/play/a089/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Europa FM 
-http://86.126.115.112:8000/play/a0ai/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Fashion TV
-http://86.126.115.112:8000/play/a099/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Fightbox
-http://86.126.115.112:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Film Now
-http://86.126.115.112:8000/play/a0au/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",FilmBox Basic
-http://86.126.115.112:8000/play/a08t/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",FilmBox Premium
-http://86.126.115.112:8000/play/a081/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Fishing and Hunting
-http://86.126.115.112:8000/play/a0av/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",HBO 2
-http://86.126.115.112:8000/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",HBO 3
-http://86.126.115.112:8000/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",HBO Romania
-http://86.126.115.112:8000/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",HBO2 HD
-http://86.126.115.112:8000/play/a0a7/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Inedit TV
-http://86.126.115.112:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",JimJam
-http://86.126.115.112:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Kanal D
-http://86.126.115.112:8000/play/a09t/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Kiss FM
-http://86.126.115.112:8000/play/a06j/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Kiss TV
-http://86.126.115.112:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",MTV Romania
-http://86.126.115.112:8000/play/a08i/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Megamax 
-http://86.126.115.112:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Mooz Ro
-http://86.126.115.112:8000/play/a08y/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Nasul TV
-http://86.126.115.112:8000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Nat Geo
-http://86.126.115.112:8000/play/a0ae/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Nat Geo People
-http://86.126.115.112:8000/play/a09v/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Nat Geo Wild
-http://86.126.115.112:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Nick Jr
-http://86.126.115.112:8000/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",PRIMA TV
-http://86.126.115.112:8000/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",PRO 2
-http://86.126.115.112:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",PRO CINEMA
-http://86.126.115.112:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",PRO GOLD
-http://86.126.115.112:8000/play/a08h/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",PRO TV 
-http://86.126.115.112:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",PRO TV HD
-http://86.126.115.112:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",PRO X
-http://86.126.115.112:8000/play/a088/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Paramount
-http://86.126.115.112:8000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Penthouse HD
-http://86.126.115.112:8000/play/a085/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Penthouse Passion
-http://86.126.115.112:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Penthouse Quickies
-http://86.126.115.112:8000/play/a09y/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Pink'O
-http://86.126.115.112:8000/play/a098/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Playboy TV
-http://86.126.115.112:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",RTL Television
-http://86.126.115.112:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Radio ZU
-http://86.126.115.112:8000/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Realitatea Plus
-http://86.126.115.112:8000/play/a0an/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Romania TV
-http://86.126.115.112:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Sport Extra
-http://86.126.115.112:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",SuperOne
-http://86.126.115.112:8000/play/a0aw/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TLC
-http://86.126.115.112:8000/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TVR 2
-http://86.126.115.112:8000/play/a09q/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TVR 3
-http://86.126.115.112:8000/play/a08c/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TVR 3
-http://86.126.115.112:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TVR2 HD
-http://86.126.115.112:8000/play/a0b4/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Taraf
-http://86.126.115.112:8000/play/a08a/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Taraf TV
-http://86.126.115.112:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Taraf TV
-http://86.126.115.112:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 1 HD
-http://86.126.115.112:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 2
-http://86.126.115.112:8000/play/a08e/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 2 HD
-http://86.126.115.112:8000/play/a079/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 3 HD
-http://86.126.115.112:8000/play/a07c/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Telekom Sport 4 HD
-http://86.126.115.112:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Trinitas TV
-http://86.126.115.112:8000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Viasat Explore
-http://86.126.115.112:8000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Virgin Radio
-http://86.126.115.112:8000/play/a0as/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Warner TV
-http://86.126.115.112:8000/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",iConcerts HD
-http://86.126.115.112:8000/play/a07a/index.m3u8
-
 
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
@@ -432,354 +455,374 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 
 #---------------MovieSportsLOKU------------#
 
-#EXTINF:-1,12Arabia
-http://185.236.229.50:8000/play/a03d
-#EXTINF:-1,A one TV Jordan
-http://185.236.229.50:8000/play/a00v
-#EXTINF:-1,AD DRAMA HD
-http://185.236.229.50:8000/play/a023
-#EXTINF:-1,AD Nat Geo HD
-http://185.236.229.50:8000/play/a027
-#EXTINF:-1,AD SPORTS 3 HD
-http://185.236.229.50:8000/play/a01e
-#EXTINF:-1,AD SPORTS 4 HD
-http://185.236.229.50:8000/play/a01f
-#EXTINF:-1,AD Sport 1 HD
-http://185.236.229.50:8000/play/a024
-#EXTINF:-1,AD Sport 2 HD
-http://185.236.229.50:8000/play/a025
-#EXTINF:-1,AGHAPY TV
-http://185.236.229.50:8000/play/a038
-#EXTINF:-1,AJMAN HD
-http://185.236.229.50:8000/play/a00h
-#EXTINF:-1,AL ARABY TV HD
-http://185.236.229.50:8000/play/a02p
-#EXTINF:-1,AL ASRAR TV
-http://185.236.229.50:8000/play/a037
-#EXTINF:-1,AL MALAKOOT SAT-THE KINGDOM SAT
-http://185.236.229.50:8000/play/a030
-#EXTINF:-1,AL MOHTADI TV
-http://185.236.229.50:8000/play/a00q
-#EXTINF:-1,AL RASHEED TV HD
-http://185.236.229.50:8000/play/a02c
-#EXTINF:-1,AL SHALLAL
-http://185.236.229.50:8000/play/a00i
-#EXTINF:-1,ALMASA
-http://185.236.229.50:8000/play/a02v
-#EXTINF:-1,ALWAQIE TV
-http://185.236.229.50:8000/play/a033
-#EXTINF:-1,ASIA TV HD
-http://185.236.229.50:8000/play/a01k
-#EXTINF:-1,AVA TV
-http://185.236.229.50:8000/play/a00y
-#EXTINF:-1,Abu Dhabi TV HD
-http://185.236.229.50:8000/play/a020
-#EXTINF:-1,Al Aoula Inter HD
-http://185.236.229.50:8000/play/a01r
-#EXTINF:-1,Al Basira
-http://185.236.229.50:8000/play/a039
-#EXTINF:-1,Al Emarat TV HD
-http://185.236.229.50:8000/play/a021
-#EXTINF:-1,Al Ghad Al Mushreq
-http://185.236.229.50:8000/play/a02b
-#EXTINF:-1,Al Jazeera
-http://185.236.229.50:8000/play/a040
-#EXTINF:-1,Al Jazeera Documentary
-http://185.236.229.50:8000/play/a043
-#EXTINF:-1,Al Jazeera English
-http://185.236.229.50:8000/play/a042
-#EXTINF:-1,Al Jazeera Mubasher
-http://185.236.229.50:8000/play/a041
-#EXTINF:-1,Al Jazeera Mubasher 2
-http://185.236.229.50:8000/play/a044
-#EXTINF:-1,Al Karma Family
-http://185.236.229.50:8000/play/a03g
-#EXTINF:-1,Al MASAR
-http://185.236.229.50:8000/play/a02m
-#EXTINF:-1,Al Maghribia HD
-http://185.236.229.50:8000/play/a01v
-#EXTINF:-1,Al Maraa Alarabiya TV
-http://185.236.229.50:8000/play/a02u
-#EXTINF:-1,Al Rafidain TV
-http://185.236.229.50:8000/play/a02z
-#EXTINF:-1,Al Sumaria TV
-http://185.236.229.50:8000/play/a029
-#EXTINF:-1,Al-Awhad TV
-http://185.236.229.50:8000/play/a034
-#EXTINF:-1,Al-Khalij TV
-http://185.236.229.50:8000/play/a011
-#EXTINF:-1,AlKarma Praise
-http://185.236.229.50:8000/play/a01a
-#EXTINF:-1,Alhurra
-http://185.236.229.50:8000/play/a00s
-#EXTINF:-1,Alhurra HD
-http://185.236.229.50:8000/play/a00r
-#EXTINF:-1,Alhurra Iraq
-http://185.236.229.50:8000/play/a00u
-#EXTINF:-1,Alhurra Iraq HD
-http://185.236.229.50:8000/play/a00t
-#EXTINF:-1,Almagd TV
-http://185.236.229.50:8000/play/a03f
-#EXTINF:-1,Almagharibia TV
-http://185.236.229.50:8000/play/a02j
-#EXTINF:-1,Almajd General
-http://185.236.229.50:8000/play/a01m
-#EXTINF:-1,Anointing TV
-http://185.236.229.50:8000/play/a03u
-#EXTINF:-1,Arryadia HD
-http://185.236.229.50:8000/play/a01t
-#EXTINF:-1,Aryen TV
-http://185.236.229.50:8000/play/a01c
-#EXTINF:-1,Asharq News Channel HD
-http://185.236.229.50:8000/play/a01h
-#EXTINF:-1,Assadissa HD
-http://185.236.229.50:8000/play/a01w
-#EXTINF:-1,Atfal & mawaheb
-http://185.236.229.50:8000/play/a01b
-#EXTINF:-1,Athaqafia HD
-http://185.236.229.50:8000/play/a01u
-#EXTINF:-1,Awraas TV channel
-http://185.236.229.50:8000/play/a02n
-#EXTINF:-1,BANGAWAZ TV
-http://185.236.229.50:8000/play/a017
-#EXTINF:-1,BANNOUTA
-http://185.236.229.50:8000/play/a03b
-#EXTINF:-1,Bethel TV
-http://185.236.229.50:8000/play/a03m
-#EXTINF:-1,CHADA TV
-http://185.236.229.50:8000/play/a02e
-#EXTINF:-1,CIRA TV
-http://185.236.229.50:8000/play/a014
-#EXTINF:-1,CTV
-http://185.236.229.50:8000/play/a03i
-#EXTINF:-1,Christ Army TV
-http://185.236.229.50:8000/play/a03p
-#EXTINF:-1,Dalaa Banat
-http://185.236.229.50:8000/play/a03l
-#EXTINF:-1,Dawacom TV
-http://185.236.229.50:8000/play/a02s
-#EXTINF:-1,Dohat Al-Quraan
-http://185.236.229.50:8000/play/a02o
-#EXTINF:-1,E Sat TV
-http://185.236.229.50:8000/play/a02g
-#EXTINF:-1,ENNAHAR TV
-http://185.236.229.50:8000/play/a02a
-#EXTINF:-1,Gadaa Bilisumma Channel
-http://185.236.229.50:8000/play/a031
-#EXTINF:-1,HRN
-http://185.236.229.50:8000/play/a01g
-#EXTINF:-1,Hooosh
-http://185.236.229.50:8000/play/a03t
-#EXTINF:-1,INEWS TV HD
-http://185.236.229.50:8000/play/a00p
-#EXTINF:-1,K24 HD
-http://185.236.229.50:8000/play/a010
-#EXTINF:-1,KARBALA TV HD
-http://185.236.229.50:8000/play/a00o
-#EXTINF:-1,KOREK HD
-http://185.236.229.50:8000/play/a00n
-#EXTINF:-1,KURDISTAN TV
-http://185.236.229.50:8000/play/a012
-#EXTINF:-1,Kale Awadi TV
-http://185.236.229.50:8000/play/a03r
-#EXTINF:-1,Kunouz tv
-http://185.236.229.50:8000/play/a02w
-#EXTINF:-1,Kunuz Altabia TV
-http://185.236.229.50:8000/play/a02t
-#EXTINF:-1,LANA TV
-http://185.236.229.50:8000/play/a02f
-#EXTINF:-1,LANA TV HD
-http://185.236.229.50:8000/play/a01j
-#EXTINF:-1,LIBYA ALMUSTAQBAL HD
-http://185.236.229.50:8000/play/a00m
-#EXTINF:-1,LIBYA BUSINESS HD
-http://185.236.229.50:8000/play/a01l
-#EXTINF:-1,Laayoune TV HD
-http://185.236.229.50:8000/play/a01s
-#EXTINF:-1,Libya Al Ahrar HD
-http://185.236.229.50:8000/play/a03a
-#EXTINF:-1,Libya One TV
-http://185.236.229.50:8000/play/a03c
-#EXTINF:-1,Loveworld MENA
-http://185.236.229.50:8000/play/a03n
-#EXTINF:-1,Majid Kids TV HD
-http://185.236.229.50:8000/play/a022
-#EXTINF:-1,Mar-Cil TV
-http://185.236.229.50:8000/play/a03q
-#EXTINF:-1,Masaya Rawhanyat  
-http://185.236.229.50:8000/play/a02r
-#EXTINF:-1,Mawda TV
-http://185.236.229.50:8000/play/a03o
-#EXTINF:-1,Medi1 TV Arabic
-http://185.236.229.50:8000/play/a01o
-#EXTINF:-1,Medi1 TV Maghreb HD
-http://185.236.229.50:8000/play/a01y
-#EXTINF:-1,Menhag Alnbowa
-http://185.236.229.50:8000/play/a03e
-#EXTINF:-1,Miracle TV
-http://185.236.229.50:8000/play/a036
-#EXTINF:-1,NourSat
-http://185.236.229.50:8000/play/a03s
-#EXTINF:-1,Noursat Alchabab
-http://185.236.229.50:8000/play/a03j
-#EXTINF:-1,PAYAM TV HD
-http://185.236.229.50:8000/play/a016
-#EXTINF:-1,Qudaah
-http://185.236.229.50:8000/play/a03k
-#EXTINF:-1,RBC TV
-http://185.236.229.50:8000/play/a00j
-#EXTINF:-1,RT ARABIC HD
-http://185.236.229.50:8000/play/a01i
-#EXTINF:-1,Rawhanyat TV
-http://185.236.229.50:8000/play/a02y
-#EXTINF:-1,Ronahi TV
-http://185.236.229.50:8000/play/a015
-#EXTINF:-1,SAT-7 ARABIC
-http://185.236.229.50:8000/play/a019
-#EXTINF:-1,SAT-7 KIDS
-http://185.236.229.50:8000/play/a018
-#EXTINF:-1,SHEHAB TV HD
-http://185.236.229.50:8000/play/a01p
-#EXTINF:-1,SYRIA TV HD
-http://185.236.229.50:8000/play/a00k
-#EXTINF:-1,SamiraTV
-http://185.236.229.50:8000/play/a02d
-#EXTINF:-1,Saout alaqila
-http://185.236.229.50:8000/play/a02q
-#EXTINF:-1,TMH
-http://185.236.229.50:8000/play/a02x
-#EXTINF:-1,TRT Arabi HD
-http://185.236.229.50:8000/play/a00w
-#EXTINF:-1,TURKMENELI HD
-http://185.236.229.50:8000/play/a01n
-#EXTINF:-1,Tamazight HD
-http://185.236.229.50:8000/play/a01x
-#EXTINF:-1,UTV Iraq
-http://185.236.229.50:8000/play/a02l
-#EXTINF:-1,UTV Iraq HD
-http://185.236.229.50:8000/play/a00z
-#EXTINF:-1,WAAR HD
-http://185.236.229.50:8000/play/a02k
-#EXTINF:-1,YAS Sports HD
-http://185.236.229.50:8000/play/a026
-#EXTINF:-1,YEMEN SHABAB
-http://185.236.229.50:8000/play/a00l
-#EXTINF:-1,ZAGROS TV HD
-http://185.236.229.50:8000/play/a013
-#EXTINF:-1,ZAROK TV
-http://185.236.229.50:8000/play/a032
-#EXTINF:-1,mahaba tv
-http://185.236.229.50:8000/play/a03h
-
-#EXTINF:-1,Оружие
-http://212.42.193.122:8888/play/a035/index.m3u8
-#EXTINF:-1,Мужское кино	
-http://212.42.193.122:8888/play/a03k/index.m3u8
-#EXTINF:-1,Ocean TV
-http://212.42.193.122:8888/play/a02s/index.m3u8
-#EXTINF:-1,Пятница
-http://212.42.193.122:8888/play/a038/index.m3u8
-#EXTINF:-1,КИНОХИТ
-http://212.42.193.122:8888/play/a008/index.m3u8
-#EXTINF:-1,Eurosport News
-http://212.42.193.122:8888/play/a037/index.m3u8
-#EXTINF:-1,Дом кино
-http://212.42.193.122:8888/play/a023/index.m3u8
-#EXTINF:-1,Discovery World
-http://212.42.193.122:8888/play/a00f/index.m3u8
-#EXTINF:-1,Перец
-http://212.42.193.122:8888/play/a02y/index.m3u8
-#EXTINF:-1,ՖԻԼՄԶՈՆ
-http://212.42.193.122:8888/play/a004/index.m3u8
-#EXTINF:-1,Travel and Adventure
-http://212.42.193.122:8888/play/a021/index.m3u8
-#EXTINF:-1,Кухня ТВ
-http://212.42.193.122:8888/play/a01m/index.m3u8
-#EXTINF:-1,Мир сериала	
-http://212.42.193.122:8888/play/a01c/index.m3u8
-#EXTINF:-1,Խաղալիք HD
-http://212.42.193.122:8888/play/a00k/index.m3u8
-#EXTINF:-1,Հայ TV HD
-http://212.42.193.122:8888/play/a00j/index.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://212.42.193.122:8888/play/a03r/index.m3u8
-#EXTINF:-1,ЕвроКино
-http://212.42.193.122:8888/play/a028/index.m3u8
-#EXTINF:-1,КВН ТВ
-http://212.42.193.122:8888/play/a017/index.m3u8
-#EXTINF:-1,Nat Geo Wild (NGW)	
-http://212.42.193.122:8888/play/a02r/index.m3u8
-#EXTINF:-1,Киномикс (Кино плюс)	
-http://212.42.193.122:8888/play/a00w/index.m3u8
-#EXTINF:-1,Ֆիթնես
-http://212.42.193.122:8888/play/a00l/index.m3u8
-#EXTINF:-1,History
-http://212.42.193.122:8888/play/a030/index.m3u8
-#EXTINF:-1,Индия ТВ
-http://212.42.193.122:8888/play/a00b/index.m3u8
-#EXTINF:-1,Մուզզոն
-http://212.42.193.122:8888/play/a00c/index.m3u8
-#EXTINF:-1,ԿԻՆՈՄԱՆ
-http://212.42.193.122:8888/play/a005/index.m3u8
-#EXTINF:-1,Киносвидание (Киноклуб)
-http://212.42.193.122:8888/play/a01d/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://212.42.193.122:8888/play/a024/index.m3u8
-#EXTINF:-1,National Geographic
-http://212.42.193.122:8888/play/a01o/index.m3u8
-#EXTINF:-1,Киносерия (Много ТВ)
-http://212.42.193.122:8888/play/a01j/index.m3u8
-#EXTINF:-1,Play Boy
-http://212.42.193.122:8888/play/a00g/index.m3u8
-#EXTINF:-1,Комедия ТВ	
-http://212.42.193.122:8888/play/a00n/index.m3u8
-#EXTINF:-1,CNN
-http://212.42.193.122:8888/play/a013/index.m3u8
-#EXTINF:-1,HIBRID 
-http://212.42.193.122:8888/play/a00d/index.m3u8
-#EXTINF:-1,Киносемья (HD Кино 1)
-http://212.42.193.122:8888/play/a03s/index.m3u8
-#EXTINF:-1,Discovery Science	
-http://212.42.193.122:8888/play/a00y/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://212.42.193.122:8888/play/a02x/index.m3u8
-#EXTINF:-1,Кинопремьера
-http://212.42.193.122:8888/play/a009/index.m3u8
-#EXTINF:-1,France 24	
-http://212.42.193.122:8888/play/a01h/index.m3u8
-#EXTINF:-1,H2
-http://212.42.193.122:8888/play/a002/index.m3u8
-#EXTINF:-1,Euronews
-http://212.42.193.122:8888/play/a02u/index.m3u8
-#EXTINF:-1,DIKAYA RIBALKA
-http://212.42.193.122:8888/play/a00x/index.m3u8
-#EXTINF:-1,НАШ Спорт
-http://212.42.193.122:8888/play/a01b/index.m3u8
-#EXTINF:-1,SONG TV ARM
-http://212.42.193.122:8888/play/a006/index.m3u8
-#EXTINF:-1,ԲԱԶՄՈՑ 
-http://212.42.193.122:8888/play/a003/index.m3u8
-#EXTINF:-1,Animal Planet
-http://212.42.193.122:8888/play/a00e/index.m3u8
-#EXTINF:-1,Загородная жизнь
-http://212.42.193.122:8888/play/a019/index.m3u8
-#EXTINF:-1,ԹԱՎԱ 
-http://212.42.193.122:8888/play/a007/index.m3u8
-#EXTINF:-1,Наше Кино
-http://212.42.193.122:8888/play/a03m/index.m3u8
-#EXTINF:-1,Наше новое Кино
-http://212.42.193.122:8888/play/a03j/index.m3u8
-#EXTINF:-1,Перец international
-http://212.42.193.122:8888/play/a00a/index.m3u8
-#EXTINF:-1,Домашний (Москва)
-http://212.42.193.122:8888/play/a02n/index.m3u8
-#EXTINF:-1,Русская ночь
-http://212.42.193.122:8888/play/a00h/index.m3u8
-#EXTINF:-1,Карусель
-http://212.42.193.122:8888/play/a01l/index.m3u8
-#EXTINF:-1,НТВ Мир
-http://212.42.193.122:8888/play/a03c/index.m3u8
-
+#EXTINF:-1 group-title="FREE TO AIR",13 Ulica HD
+http://89.249.49.78:8000/play/a0c5
+#EXTINF:-1 group-title="FREE TO AIR",20 Mediaset HD
+http://89.249.49.78:8000/play/a0a1
+#EXTINF:-1 group-title="FREE TO AIR",2M Monde
+http://89.249.49.78:8000/play/a0gk
+#EXTINF:-1 group-title="FREE TO AIR",4Fun Dance
+http://89.249.49.78:8000/play/a04b
+#EXTINF:-1 group-title="FREE TO AIR",4Fun Kids
+http://89.249.49.78:8000/play/a04a
+#EXTINF:-1 group-title="FREE TO AIR",4Fun.TV
+http://89.249.49.78:8000/play/a049
+#EXTINF:-1 group-title="FREE TO AIR",AMC
+http://89.249.49.78:8000/play/a0bh
+#EXTINF:-1 group-title="FREE TO AIR",ANTENA
+http://89.249.49.78:8000/play/a073
+#EXTINF:-1 group-title="FREE TO AIR",AXN
+http://89.249.49.78:8000/play/a0dq
+#EXTINF:-1 group-title="FREE TO AIR",AXN Black
+http://89.249.49.78:8000/play/a0di
+#EXTINF:-1 group-title="FREE TO AIR",AXN HD
+http://89.249.49.78:8000/play/a0ei
+#EXTINF:-1 group-title="FREE TO AIR",AXN SPIN HD
+http://89.249.49.78:8000/play/a06o
+#EXTINF:-1 group-title="FREE TO AIR",AXN White
+http://89.249.49.78:8000/play/a0dh
+#EXTINF:-1 group-title="FREE TO AIR",Ale kino+ HD
+http://89.249.49.78:8000/play/a09r
+#EXTINF:-1 group-title="FREE TO AIR",Animal Planet HD
+http://89.249.49.78:8000/play/a06k
+#EXTINF:-1 group-title="FREE TO AIR",BBC Brit
+http://89.249.49.78:8000/play/a0gt
+#EXTINF:-1 group-title="FREE TO AIR",BBC CBeebies
+http://89.249.49.78:8000/play/a0gr
+#EXTINF:-1 group-title="FREE TO AIR",BBC Earth HD
+http://89.249.49.78:8000/play/a06v
+#EXTINF:-1 group-title="FREE TO AIR",BBC FIRST
+http://89.249.49.78:8000/play/a06u
+#EXTINF:-1 group-title="FREE TO AIR",BBC Lifestyle HD
+http://89.249.49.78:8000/play/a0gs
+#EXTINF:-1 group-title="FREE TO AIR",Boing
+http://89.249.49.78:8000/play/a0a6
+#EXTINF:-1 group-title="FREE TO AIR",Boomerang HD
+http://89.249.49.78:8000/play/a04f
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ DOKUMENT HD
+http://89.249.49.78:8000/play/a0ba
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ FAMILY HD
+http://89.249.49.78:8000/play/a09i
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ FILM HD
+http://89.249.49.78:8000/play/a09h
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ KUCHNIA
+http://89.249.49.78:8000/play/a09u
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ NOW
+http://89.249.49.78:8000/play/a03g
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ PREMIUM HD
+http://89.249.49.78:8000/play/a03n
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ PREMIUM HD
+http://89.249.49.78:8000/play/a03j
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ SERIALE HD
+http://89.249.49.78:8000/play/a09o
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ SPORT 3 HD
+http://89.249.49.78:8000/play/a070
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ SPORT 4 HD
+http://89.249.49.78:8000/play/a07j
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ SPORT HD
+http://89.249.49.78:8000/play/a03q
+#EXTINF:-1 group-title="FREE TO AIR",CANAL+ SPORT HD
+http://89.249.49.78:8000/play/a03k
+#EXTINF:-1 group-title="FREE TO AIR",CBS Europa HD
+http://89.249.49.78:8000/play/a0ez
+#EXTINF:-1 group-title="FREE TO AIR",CBS Reality HD
+http://89.249.49.78:8000/play/a05u
+#EXTINF:-1 group-title="FREE TO AIR",CI Polsat HD
+http://89.249.49.78:8000/play/a0ep
+#EXTINF:-1 group-title="FREE TO AIR",Camera Deputati
+http://89.249.49.78:8000/play/a08q
+#EXTINF:-1 group-title="FREE TO AIR",Canale 5
+http://89.249.49.78:8000/play/a0cn
+#EXTINF:-1 group-title="FREE TO AIR",Canale5 HD
+http://89.249.49.78:8000/play/a0a3
+#EXTINF:-1 group-title="FREE TO AIR",Cartoon Network HD
+http://89.249.49.78:8000/play/a0f7
+#EXTINF:-1 group-title="FREE TO AIR",Cartoonito
+http://89.249.49.78:8000/play/a0ac
+#EXTINF:-1 group-title="FREE TO AIR",Cine34
+http://89.249.49.78:8000/play/a09z
+#EXTINF:-1 group-title="FREE TO AIR",Cinemax 2 HD
+http://89.249.49.78:8000/play/a0eh
+#EXTINF:-1 group-title="FREE TO AIR",Cinemax HD
+http://89.249.49.78:8000/play/a06t
+#EXTINF:-1 group-title="FREE TO AIR",Comedy Central HD
+http://89.249.49.78:8000/play/a0d5
+#EXTINF:-1 group-title="FREE TO AIR",DAZN 3 HD
+http://89.249.49.78:8000/play/a0i9
+#EXTINF:-1 group-title="FREE TO AIR",DAZN 4 HD
+http://89.249.49.78:8000/play/a0i8
+#EXTINF:-1 group-title="FREE TO AIR",DTX
+http://89.249.49.78:8000/play/a0bk
+#EXTINF:-1 group-title="FREE TO AIR",Da Vinci
+http://89.249.49.78:8000/play/a042
+#EXTINF:-1 group-title="FREE TO AIR",Disco Polo Music
+http://89.249.49.78:8000/play/a0do
+#EXTINF:-1 group-title="FREE TO AIR",Discovery HD
+http://89.249.49.78:8000/play/a0bi
+#EXTINF:-1 group-title="FREE TO AIR",Discovery Historia
+http://89.249.49.78:8000/play/a06m
+#EXTINF:-1 group-title="FREE TO AIR",Discovery Life
+http://89.249.49.78:8000/play/a098
+#EXTINF:-1 group-title="FREE TO AIR",Discovery Science HD
+http://89.249.49.78:8000/play/a0f8
+#EXTINF:-1 group-title="FREE TO AIR",Disney Channel HD
+http://89.249.49.78:8000/play/a0e0
+#EXTINF:-1 group-title="FREE TO AIR",Disney Junior
+http://89.249.49.78:8000/play/a0fb
+#EXTINF:-1 group-title="FREE TO AIR",Disney XD
+http://89.249.49.78:8000/play/a0dt
+#EXTINF:-1 group-title="FREE TO AIR",E! Entertainment
+http://89.249.49.78:8000/play/a0br
+#EXTINF:-1 group-title="FREE TO AIR",ELEVEN SPORTS 4 HD
+http://89.249.49.78:8000/play/a03h
+#EXTINF:-1 group-title="FREE TO AIR",Eleven Sports 1 4K
+http://89.249.49.78:8000/play/a0cc
+#EXTINF:-1 group-title="FREE TO AIR",Epic Drama HD
+http://89.249.49.78:8000/play/a04c
+#EXTINF:-1 group-title="FREE TO AIR",Eska Rock
+http://89.249.49.78:8000/play/a04h
+#EXTINF:-1 group-title="FREE TO AIR",Eska TV
+http://89.249.49.78:8000/play/a04k
+#EXTINF:-1 group-title="FREE TO AIR",Eska TV Extra
+http://89.249.49.78:8000/play/a04j
+#EXTINF:-1 group-title="FREE TO AIR",Euronews Greek
+http://89.249.49.78:8000/play/a0gq
+#EXTINF:-1 group-title="FREE TO AIR",Euronews Italian
+http://89.249.49.78:8000/play/a0gp
+#EXTINF:-1 group-title="FREE TO AIR",Eurosport 1 HD
+http://89.249.49.78:8000/play/a0c1
+#EXTINF:-1 group-title="FREE TO AIR",Eurosport 2 HD
+http://89.249.49.78:8000/play/a0f4
+#EXTINF:-1 group-title="FREE TO AIR",Extreme Sports HD
+http://89.249.49.78:8000/play/a0ey
+#EXTINF:-1 group-title="FREE TO AIR",FOX HD
+http://89.249.49.78:8000/play/a0el
+#EXTINF:-1 group-title="FREE TO AIR",Fightbox HD
+http://89.249.49.78:8000/play/a0bw
+#EXTINF:-1 group-title="FREE TO AIR",FilmBox Action
+http://89.249.49.78:8000/play/a05z
+#EXTINF:-1 group-title="FREE TO AIR",FilmBox Extra HD
+http://89.249.49.78:8000/play/a061
+#EXTINF:-1 group-title="FREE TO AIR",FilmBox Family
+http://89.249.49.78:8000/play/a05y
+#EXTINF:-1 group-title="FREE TO AIR",Filmbox Arthouse
+http://89.249.49.78:8000/play/a047
+#EXTINF:-1 group-title="FREE TO AIR",Filmbox Premium HD
+http://89.249.49.78:8000/play/a05w
+#EXTINF:-1 group-title="FREE TO AIR",Focus
+http://89.249.49.78:8000/play/a0ad
+#EXTINF:-1 group-title="FREE TO AIR",Fokus TV
+http://89.249.49.78:8000/play/a04l
+#EXTINF:-1 group-title="FREE TO AIR",Fox Comedy HD
+http://89.249.49.78:8000/play/a0ej
+#EXTINF:-1 group-title="FREE TO AIR",GOLD TV
+http://89.249.49.78:8000/play/a077
+#EXTINF:-1 group-title="FREE TO AIR",Giallo HD
+http://89.249.49.78:8000/play/a09a
+#EXTINF:-1 group-title="FREE TO AIR",Golf Channel
+http://89.249.49.78:8000/play/a0bv
+#EXTINF:-1 group-title="FREE TO AIR",HBO HD
+http://89.249.49.78:8000/play/a0f3
+#EXTINF:-1 group-title="FREE TO AIR",HBO2 HD
+http://89.249.49.78:8000/play/a06w
+#EXTINF:-1 group-title="FREE TO AIR",HBO3 HD
+http://89.249.49.78:8000/play/a06x
+#EXTINF:-1 group-title="FREE TO AIR",HGTV HD
+http://89.249.49.78:8000/play/a09d
+#EXTINF:-1 group-title="FREE TO AIR",HGTV Italy HD
+http://89.249.49.78:8000/play/a09f
+#EXTINF:-1 group-title="FREE TO AIR",HOME TV
+http://89.249.49.78:8000/play/a072
+#EXTINF:-1 group-title="FREE TO AIR",History 2 HD
+http://89.249.49.78:8000/play/a0bu
+#EXTINF:-1 group-title="FREE TO AIR",History HD
+http://89.249.49.78:8000/play/a0eq
+#EXTINF:-1 group-title="FREE TO AIR",ID HD
+http://89.249.49.78:8000/play/a0bj
+#EXTINF:-1 group-title="FREE TO AIR",Iris
+http://89.249.49.78:8000/play/a0a5
+#EXTINF:-1 group-title="FREE TO AIR",Italia1 HD
+http://89.249.49.78:8000/play/a0a2
+#EXTINF:-1 group-title="FREE TO AIR",Kabel 1 Doku HD Austria
+http://89.249.49.78:8000/play/a0k8
+#EXTINF:-1 group-title="FREE TO AIR",Kabel Eins Doku HD
+http://89.249.49.78:8000/play/a0k4
+#EXTINF:-1 group-title="FREE TO AIR",Kino Polska Muzyka
+http://89.249.49.78:8000/play/a06j
+#EXTINF:-1 group-title="FREE TO AIR",Kino TV HD
+http://89.249.49.78:8000/play/a05x
+#EXTINF:-1 group-title="FREE TO AIR",LA7
+http://89.249.49.78:8000/play/a0co
+#EXTINF:-1 group-title="FREE TO AIR",LA7 HD
+http://89.249.49.78:8000/play/a0cq
+#EXTINF:-1 group-title="FREE TO AIR",LA7d
+http://89.249.49.78:8000/play/a0cp
+#EXTINF:-1 group-title="FREE TO AIR",La 5
+http://89.249.49.78:8000/play/a0a7
+#EXTINF:-1 group-title="FREE TO AIR",Lifetime HD
+http://89.249.49.78:8000/play/a0bz
+#EXTINF:-1 group-title="FREE TO AIR",M. ESTRENOS 2 HD
+http://89.249.49.78:8000/play/a0i6
+#EXTINF:-1 group-title="FREE TO AIR",M. LaLiga 2 HD
+http://89.249.49.78:8000/play/a0i4
+#EXTINF:-1 group-title="FREE TO AIR",M. LaLiga 3 HD
+http://89.249.49.78:8000/play/a0i5
+#EXTINF:-1 group-title="FREE TO AIR",M.LCAMPEON1
+http://89.249.49.78:8000/play/a0i7
+#EXTINF:-1 group-title="FREE TO AIR",M.LCAMPEON2
+http://89.249.49.78:8000/play/a0ia
+#EXTINF:-1 group-title="FREE TO AIR",MTV 00s
+http://89.249.49.78:8000/play/a0cw
+#EXTINF:-1 group-title="FREE TO AIR",MTV 90s
+http://89.249.49.78:8000/play/a0dw
+#EXTINF:-1 group-title="FREE TO AIR",MTV Live HD
+http://89.249.49.78:8000/play/a0d3
+#EXTINF:-1 group-title="FREE TO AIR",MTV Polska HD
+http://89.249.49.78:8000/play/a0d1
+#EXTINF:-1 group-title="FREE TO AIR",Mediaset Extra
+http://89.249.49.78:8000/play/a0a9
+#EXTINF:-1 group-title="FREE TO AIR",Mediaset Italia Due
+http://89.249.49.78:8000/play/a0aa
+#EXTINF:-1 group-title="FREE TO AIR",Metro
+http://89.249.49.78:8000/play/a044
+#EXTINF:-1 group-title="FREE TO AIR",MiniMini+ HD
+http://89.249.49.78:8000/play/a03m
+#EXTINF:-1 group-title="FREE TO AIR",MiniMini+ HD
+http://89.249.49.78:8000/play/a03s
+#EXTINF:-1 group-title="FREE TO AIR",MotorTrend HD
+http://89.249.49.78:8000/play/a099
+#EXTINF:-1 group-title="FREE TO AIR",Music Box Polska
+http://89.249.49.78:8000/play/a06c
+#EXTINF:-1 group-title="FREE TO AIR",NATIONAL GEO HD
+http://89.249.49.78:8000/play/a03v
+#EXTINF:-1 group-title="FREE TO AIR",NUTA TV
+http://89.249.49.78:8000/play/a075
+#EXTINF:-1 group-title="FREE TO AIR",Nat Geo People HD
+http://89.249.49.78:8000/play/a0ew
+#EXTINF:-1 group-title="FREE TO AIR",Nick Jr
+http://89.249.49.78:8000/play/a0cv
+#EXTINF:-1 group-title="FREE TO AIR",Nick Music
+http://89.249.49.78:8000/play/a0cu
+#EXTINF:-1 group-title="FREE TO AIR",Nickelodeon
+http://89.249.49.78:8000/play/a0cx
+#EXTINF:-1 group-title="FREE TO AIR",Nicktoons HD
+http://89.249.49.78:8000/play/a0d0
+#EXTINF:-1 group-title="FREE TO AIR",Nove HD
+http://89.249.49.78:8000/play/a09b
+#EXTINF:-1 group-title="FREE TO AIR",Nowa TV
+http://89.249.49.78:8000/play/a04m
+#EXTINF:-1 group-title="FREE TO AIR",POWER TV
+http://89.249.49.78:8000/play/a074
+#EXTINF:-1 group-title="FREE TO AIR",Paramount Channel HD
+http://89.249.49.78:8000/play/a0d6
+#EXTINF:-1 group-title="FREE TO AIR",Planete+ HD
+http://89.249.49.78:8000/play/a09t
+#EXTINF:-1 group-title="FREE TO AIR",Polo TV
+http://89.249.49.78:8000/play/a04i
+#EXTINF:-1 group-title="FREE TO AIR",Polsat 2 HD 
+http://89.249.49.78:8000/play/a039
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Cafe HD
+http://89.249.49.78:8000/play/a037
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Comedy Central Extra
+http://89.249.49.78:8000/play/a0d2
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Doku HD
+http://89.249.49.78:8000/play/a0er
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Film HD
+http://89.249.49.78:8000/play/a038
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Games
+http://89.249.49.78:8000/play/a043
+#EXTINF:-1 group-title="FREE TO AIR",Polsat HD
+http://89.249.49.78:8000/play/a033
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Jim Jam
+http://89.249.49.78:8000/play/a0dv
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Music HD
+http://89.249.49.78:8000/play/a04e
+#EXTINF:-1 group-title="FREE TO AIR",Polsat News 2
+http://89.249.49.78:8000/play/a032
+#EXTINF:-1 group-title="FREE TO AIR",Polsat News HD
+http://89.249.49.78:8000/play/a03c
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Play HD
+http://89.249.49.78:8000/play/a034
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Rodzina
+http://89.249.49.78:8000/play/a0dp
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Seriale HD
+http://89.249.49.78:8000/play/a0ds
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Sport Extra HD
+http://89.249.49.78:8000/play/a0eg
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Sport Fight HD
+http://89.249.49.78:8000/play/a0f5
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Sport HD
+http://89.249.49.78:8000/play/a0em
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Sport News HD
+http://89.249.49.78:8000/play/a0f6
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Sport Premium 1
+http://89.249.49.78:8000/play/a0c6
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Sport Premium 2
+http://89.249.49.78:8000/play/a0c7
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Sport Premium PPV3
+http://89.249.49.78:8000/play/a0c8
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Sport Premium PPV4
+http://89.249.49.78:8000/play/a0c9
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Viasat Explore HD
+http://89.249.49.78:8000/play/a0e1
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Viasat History HD
+http://89.249.49.78:8000/play/a0e9
+#EXTINF:-1 group-title="FREE TO AIR",Polsat Viasat Nature HD
+http://89.249.49.78:8000/play/a0ex
+#EXTINF:-1 group-title="FREE TO AIR",Pro7 MAXX HD
+http://89.249.49.78:8000/play/a0k3
+#EXTINF:-1 group-title="FREE TO AIR",Pro7 MAXX HD Austria
+http://89.249.49.78:8000/play/a0k7
+#EXTINF:-1 group-title="FREE TO AIR",ProSieben HD
+http://89.249.49.78:8000/play/a0k0
+#EXTINF:-1 group-title="FREE TO AIR",RADIO MONTE CARLO
+http://89.249.49.78:8000/play/a0a0
+#EXTINF:-1 group-title="FREE TO AIR",RT Doc HD
+http://89.249.49.78:8000/play/a0gi
+#EXTINF:-1 group-title="FREE TO AIR",RT HD
+http://89.249.49.78:8000/play/a0gh
+#EXTINF:-1 group-title="FREE TO AIR",Rai 1
+http://89.249.49.78:8000/play/a08j
+#EXTINF:-1 group-title="FREE TO AIR",Rai 1 HD
+http://89.249.49.78:8000/play/a0ce
+#EXTINF:-1 group-title="FREE TO AIR",Rai 2
+http://89.249.49.78:8000/play/a08k
+#EXTINF:-1 group-title="FREE TO AIR",Rai 2 HD
+http://89.249.49.78:8000/play/a0cf
+#EXTINF:-1 group-title="FREE TO AIR",Rai 3
+http://89.249.49.78:8000/play/a08l
+#EXTINF:-1 group-title="FREE TO AIR",Rai 3 HD
+http://89.249.49.78:8000/play/a0cg
+#EXTINF:-1 group-title="FREE TO AIR",Rai 4 HD
+http://89.249.49.78:8000/play/a0ci
+#EXTINF:-1 group-title="FREE TO AIR",Rai 4K
+http://89.249.49.78:8000/play/a0ck
+#EXTINF:-1 group-title="FREE TO AIR",Rai 5 HD
+http://89.249.49.78:8000/play/a01q
+#EXTINF:-1 group-title="FREE TO AIR",Rai Gulp HD
+http://89.249.49.78:8000/play/a01m
+#EXTINF:-1 group-title="FREE TO AIR",Rai Movie HD
+http://89.249.49.78:8000/play/a0cj
+#EXTINF:-1 group-title="FREE TO AIR",Rai News 24 HD
+http://89.249.49.78:8000/play/a01l
+#EXTINF:-1 group-title="FREE TO AIR",Rai Premium
+http://89.249.49.78:8000/play/a08t
+#EXTINF:-1 group-title="FREE TO AIR",Rai Scuola
+http://89.249.49.78:8000/play/a08s
+#EXTINF:-1 group-title="FREE TO AIR",Rai Storia
+http://89.249.49.78:8000/play/a08p
+#EXTINF:-1 group-title="FREE TO AIR",Rai Storia HD
+http://89.249.49.78:8000/play/a01o
+#EXTINF:-1 group-title="FREE TO AIR",Rai YoYo HD
+http://89.249.49.78:8000/play/a01n
+#EXTINF:-1 group-title="FREE TO AIR",Red Carpet TV
+http://89.249.49.78:8000/play/a06b
+#EXTINF:-1 group-title="FREE TO AIR",Rete4 HD
+http://89.249.49.78:8000/play/a0a4
+#EXTINF:-1 group-title="FREE TO AIR",Romance TV
+http://89.249.49.78:8000/play/a0bf
+#EXTINF:-1 group-title="FREE TO AIR",SAT.1 HD
+http://89.249.49.78:8000/play/a0jz
 
 
 #------------------#
